@@ -1,0 +1,810 @@
+codigo_estacion,institucion,fuente,nombre,altura,latitud,longitud,codigo_cuenca,nombre_cuenca,codigo_sub_cuenca,nombre_sub_cuenca,inicio_observaciones,fin_observaciones,cantidad_observaciones,inicio_automatica
+1201005,DGA,dga_web,Rio Caracarani En Humapalca,3908,-17.8428,-69.6994,12,Rio Lluta,120,Rio Lluta Alto,1973-08-15,2018-01-30,15450,2017-04-13
+1201002,DGA,dga_web,Rio Caracarani En Alcerreca,3253,-17.9833,-69.6283,12,Rio Lluta,120,Rio Lluta Alto,1961-12-13,1997-09-11,3375,-
+1201001,DGA,dga_web,Rio Colpitas En Alcerreca,3251,-17.9919,-69.6256,12,Rio Lluta,120,Rio Lluta Alto,1961-12-13,2017-08-23,14091,-
+1001002,DGA,dga_web,Rio Caquena En Vertedero,0,-17.9942,-69.255,10,Altiplanicas,100,Eentre Limite Peru-Bolivia Y Rio Lauca,1969-11-27,2017-07-31,13419,-
+1201003,DGA,dga_web,Rio Lluta En Alcerreca,3550,-18.0036,-69.6331,12,Rio Lluta,120,Rio Lluta Alto,1961-11-03,2018-03-09,15861,2001-01-01
+1001003,DGA,dga_web,Rio Colpacagua En Desembocadura,0,-18.0156,-69.2308,10,Altiplanicas,100,Eentre Limite Peru-Bolivia Y Rio Lauca,1988-06-16,2017-05-18,8736,-
+1001001,DGA,dga_web,Rio Caquena En Nacimiento,4385,-18.0769,-69.1961,10,Altiplanicas,100,Eentre Limite Peru-Bolivia Y Rio Lauca,1976-07-21,2004-05-25,7288,-
+1020002,DGA,dga_web,Rio Desaguadero Cotacotani,4500,-18.1936,-69.2458,10,Altiplanicas,102,Rio Lauca,1964-12-07,2017-07-31,15899,-
+1020004,DGA,dga_web,"Canal Lauca En Sifon N"" 1 (Km. 3.3)",4384,-18.2294,-69.3311,10,Altiplanicas,102,Rio Lauca,1984-12-01,2017-07-31,11255,-
+1020003,DGA,dga_web,Rio Lauca En Estancia El Lago,4370,-18.2325,-69.3319,10,Altiplanicas,102,Rio Lauca,1937-02-06,2017-07-31,15268,-
+1202001,DGA,dga_web,Rio Lluta En Jamiraya,0,-18.25,-69.6667,12,Rio Lluta,120,Rio Lluta Alto,1937-11-09,1944-06-28,1306,-
+1010002,DGA,dga_web,Rio Chungara En Desembocadura,4518,-18.2833,-69.1333,10,Altiplanicas,101,Lago Chungara,1963-06-20,1966-12-29,578,-
+1210003,DGA,dga_web,Rio Lluta En Chapisca,0,-18.3667,-69.8858,12,Rio Lluta,121,Rio Lluta Bajo,1987-09-04,1995-12-06,1785,-
+1210001,DGA,dga_web,Rio Lluta En Tocontasi,1850,-18.3667,-69.9003,12,Rio Lluta,121,Rio Lluta Bajo,1946-07-01,2017-02-15,11038,-
+1210002,DGA,dga_web,Rio Lluta En El Molino,0,-18.3753,-69.9467,12,Rio Lluta,121,Rio Lluta Bajo,1940-03-01,1943-02-25,1092,-
+1211001,DGA,dga_web,Rio Lluta En Panamericana,10,-18.4,-70.3,12,Rio Lluta,121,Rio Lluta Bajo,1985-01-01,2018-03-09,8780,2017-02-15
+1300002,DGA,dga_web,Rio Laco En Cosapilla,3000,-18.4008,-68.5833,13,Rio San Jose,130,"Quebrada Azapa Alta (R Seco, Tignamar Q Chusmiza)",1995-09-12,2017-07-31,7249,-
+1211002,DGA,dga_web,Rio Lluta En Puente Viejo Km 15,11,-18.4036,-70.2683,12,Rio Lluta,121,Rio Lluta Bajo,1979-01-09,1997-05-16,2573,-
+1310005,DGA,dga_web,Rio San Jose En El Molino,0,-18.425,-69.9083,13,Rio San Jose,131,Rio San Jose,1947-04-01,1947-04-30,30,-
+1021002,DGA,dga_web,Rio Guallatire En Guallatire,4280,-18.4931,-69.1494,10,Altiplanicas,102,Rio Lauca,1971-05-26,2018-03-09,15075,2017-08-01
+1310001,DGA,dga_web,Rio San Jose En Livilcar,0,-18.5003,-69.7114,13,Rio San Jose,131,Rio San Jose,1937-02-20,1945-07-28,1715,-
+1300009,DGA,dga_web,Rio Ticnamar En Angostura,3010,-18.5133,-69.5656,13,Rio San Jose,130,Azapa Alto,2006-01-01,2018-03-09,3456,2017-09-12
+1300001,DGA,dga_web,Rio Ticnamar En Ticnamar,3800,-18.5325,-69.5433,13,Rio San Jose,130,"Quebrada Azapa Alta (R Seco, Tignamar Q Chusmiza)",1994-12-07,2005-12-29,2164,-
+1021001,DGA,dga_web,Rio Lauca En Japu (O En El Limite),3907,-18.5833,-69.0467,10,Altiplanicas,102,Rio Lauca,1963-04-11,2017-09-30,12043,-
+1310003,DGA,dga_web,Rio San Jose Antes Bocatoma Azapa,960,-18.5833,-69.9667,13,Rio San Jose,131,Rio San Jose,1975-05-15,1984-12-31,2850,-
+1310002,DGA,dga_web,Rio San Jose En Ausipar,1300,-18.5844,-69.8114,13,Rio San Jose,131,Rio San Jose,1967-05-15,2018-03-09,10260,2001-08-18
+1310004,DGA,dga_web,Acueducto Azapa En Bocatoma,960,-18.5856,-69.8867,13,Rio San Jose,131,Rio San Jose,1963-04-10,2017-07-31,14872,-
+1410004,DGA,dga_web,Rio Codpa En Cala-Cala,1745,-18.8269,-69.6669,14,Costeras R.San Jose-Q.Camarones,141,Quebrada Vitor,1982-10-11,2018-03-09,10389,2013-03-20
+1410005,DGA,dga_web,Rio Codpa En Ofragia,0,-18.8333,-69.8,14,Costeras R.San Jose-Q.Camarones,141,Quebrada Vitor,1946-08-01,1948-05-31,531,-
+1410006,DGA,dga_web,Rio Codpa En Palca,0,-18.8417,-69.6667,14,Costeras R.San Jose-Q.Camarones,141,Quebrada Vitor,1946-07-01,1995-04-24,823,-
+1502008,DGA,dga_web,Rio Camarones En Chilpe,1565,-18.9431,-69.6197,15,Q. Rio Camarones,150,Rio Camarones Antes Junta Quebrada De Chiza,2005-12-12,2018-03-09,2499,2016-12-22
+1502002,DGA,dga_web,Rio Camarones En Conanoxa,710,-19.0444,-69.9842,15,Q. Rio Camarones,150,Rio Camarones Antes Junta Quebrada De Chiza,1958-04-19,2018-03-09,13065,2016-12-22
+1610004,DGA,dga_web,Q. Camia 3 Km. A. Arriba De Tarcavire,3848,-19.1181,-69.2447,16,Costeras R.Camarones-Pampa Del Tamarugal,161,Quebrada De Camina,2006-01-01,2018-03-09,2150,2006-01-01
+1610001,DGA,dga_web,Quebrada Camigna En Umigna,2580,-19.2,-69.3333,16,Costeras R.Camarones-Pampa Del Tamarugal,161,Quebrada De Camina,1962-06-24,1965-01-03,895,-
+1041002,DGA,dga_web,Rio Isluga En Bocatoma,4000,-19.2711,-68.6797,10,Altiplanicas,104,Entre Estero Sencata Y Rio Sacaya,1995-05-25,2017-07-31,6281,-
+1610002,DGA,dga_web,Quebrada CamiÑA En Altusa,2280,-19.2958,-69.3886,16,Costeras R.Camarones-Pampa Del Tamarugal,161,Quebrada De Camina,1978-10-30,2001-03-02,6136,-
+1041001,DGA,dga_web,Rio Cariquima En Cariquima,4000,-19.4497,-68.6414,10,Altiplanicas,104,Entre Estero Sencata Y Rio Sacaya,1994-09-29,1999-01-29,1543,-
+1710001,DGA,dga_web,Quebrada Camigna En Pacagua,0,-19.5667,-69.65,17,Pampa Del Tamarugal,171,Quebrada De Boga,1928-09-19,1931-10-31,1116,-
+1730009,DGA,dga_web,Quebrada Aroma En Palca,0,-19.7,-68.9083,17,Pampa Del Tamarugal,173,Quebrada De Tarapaca,1929-02-11,1931-09-30,952,-
+1730004,DGA,dga_web,Quebrada Tarapaca En Mulli-Mulli,0,-19.7256,-69.0253,17,Pampa Del Tamarugal,173,Quebrada De Tarapaca,1931-04-01,1947-02-28,3152,-
+1720001,DGA,dga_web,Rio Aroma En Alagnusca,0,-19.7419,-69.6381,17,Pampa Del Tamarugal,172,Quebrada De Aroma,1928-09-11,1931-08-31,994,-
+1730007,DGA,dga_web,Q. Tarapaca En Sibaya,2830,-19.7831,-69.1433,17,Pampa Del Tamarugal,173,Quebrada De Tarapaca,1928-08-25,2018-03-09,8063,2012-05-16
+1730006,DGA,dga_web,Quebrada Tarapaca En Mocha,0,-19.8044,-69.2692,17,Pampa Del Tamarugal,173,Quebrada De Tarapaca,1928-08-22,1931-01-31,841,-
+1730002,DGA,dga_web,Rio Tarapaca En Mina San Juan,0,-19.8297,-69.2869,17,Pampa Del Tamarugal,173,Quebrada De Tarapaca,1984-12-10,2003-12-20,5752,-
+1730008,DGA,dga_web,Quebrada Tarapaca En Puchurca,0,-19.85,-69.3167,17,Pampa Del Tamarugal,173,Quebrada De Tarapaca,1928-09-01,1931-09-30,1045,-
+1730012,DGA,dga_web,Q. Tarapaca En Laonsana,1847,-19.8531,-69.3442,17,Pampa Del Tamarugal,173,Quebrada De Tarapaca,2003-03-01,2017-09-30,2885,-
+1044001,DGA,dga_web,Rio Cancosa En El Tambo,4000,-19.8586,-68.5858,10,Altiplanicas,104,Entre Estero Sencata Y Rio Sacaya,1994-08-10,2017-07-31,7596,-
+1730003,DGA,dga_web,Rio Coscaya En Saitoco,0,-19.8642,-68.9297,17,Pampa Del Tamarugal,173,Quebrada De Tarapaca,1985-05-15,2017-07-14,9937,-
+1730005,DGA,dga_web,Quebrada Tarapaca En Pachica,0,-19.8661,-69.4433,17,Pampa Del Tamarugal,173,Quebrada De Tarapaca,1928-12-09,1930-11-29,618,-
+1730001,DGA,dga_web,Rio Coscaya En Pampa Lirima,3540,-19.8764,-68.9592,17,Pampa Del Tamarugal,173,Quebrada De Tarapaca,1977-12-08,1989-02-10,4003,-
+1050003,DGA,dga_web,Rio Batea En Confluencia,0,-20.0333,-68.8333,10,Altiplanicas,105,Salar Del Huasco,1980-09-24,2017-06-13,11423,-
+1050001,DGA,dga_web,Quebrada Piga En Ojos De Agua,0,-20.0333,-68.8333,10,Altiplanicas,105,Salar Del Huasco,1959-11-15,1995-04-17,1431,-
+1050002,DGA,dga_web,Rio Piga En Collacagua,0,-20.0344,-68.8311,10,Altiplanicas,105,Salar Del Huasco,1959-11-15,2017-07-31,17745,-
+1050004,DGA,dga_web,Rio Collacagua En Peablanca,3853,-20.1119,-68.8408,10,Altiplanicas,105,Salar Del Huasco,1981-02-11,2017-09-30,10943,-
+1051001,DGA,dga_web,Vertiente El ErmitaÑO En Lag.Huasco,3790,-20.2867,-68.8875,10,Altiplanicas,105,Salar Del Huasco,2010-12-25,2017-07-31,216,-
+2113001,DGA,dga_web,Rio Huatacondo En Copaquire,3540,-20.9333,-68.8833,21,Rio Loa,211,Loa Medio (Entre R.  Salado Y Q. De Barrera),1977-12-20,2017-06-19,12298,-
+2120001,DGA,dga_web,Rio Loa En Desembocadura,0,-21.4247,-70.0536,21,Rio Loa,212,Rio Loa Bajo (Entre Quebrada Amarga Y Desemb.),1989-10-05,2017-07-31,7981,-
+2112002,DGA,dga_web,Canal Quillagua En Quillagua,910,-21.6433,-69.5386,32,Rio Loa,322,Rio Loa Medio (Entre Rio Salado Y Quebrada Amarga),1977-10-25,2002-05-08,7708,-
+2112001,DGA,dga_web,Rio Loa En Quillagua,802,-21.65,-69.5333,32,Rio Loa,322,Rio Loa Medio (Entre Rio Salado Y Quebrada Amarga),1916-10-20,1973-02-21,9248,-
+2101001,DGA,dga_web,Rio Loa Antes Represa Lequena,3315,-21.6558,-68.6622,21,Rio Loa,210,Rio Loa Alto (Bajo Junta Rio Salado),1967-07-11,2018-03-09,15480,2016-01-01
+2112005,DGA,dga_web,Rio Loa Antes Zona Agricola Quillagua,950,-21.7125,-69.5167,32,Rio Loa,322,Rio Loa Medio (Entre Rio Salado Y Quebrada Amarga),1998-10-22,2012-01-25,3768,-
+2103004,DGA,dga_web,Rio San Pedro En San Pedro,0,-21.9314,-68.5603,21,Rio Loa,210,Rio Loa Alto (Bajo Junta Rio Salado),1916-10-01,1931-04-30,4780,-
+2103003,DGA,dga_web,Rio San Pedro En Camino Internacional,3320,-21.9369,-68.5331,21,Rio Loa,210,Rio Loa Alto (Bajo Junta Rio Salado),1979-10-04,1989-03-30,2596,-
+2103002,DGA,dga_web,"Rio San Pedro En Parshall N""2 (Bt. Chilex)",3318,-21.9425,-68.5122,21,Rio Loa,210,Rio Loa Alto (Bajo Junta Rio Salado),1967-11-13,2016-12-29,14951,-
+2103001,DGA,dga_web,"Rio San Pedro En Parshall N""1",3700,-21.9664,-68.3661,21,Rio Loa,210,Rio Loa Alto (Bajo Junta Rio Salado),1967-12-28,2017-07-31,13890,-
+2104013,DGA,dga_web,Rio Loa En Vado Santa Barbara (Doh),2950,-21.9719,-68.6083,21,Rio Loa,210,Rio Loa Alto (Bajo Junta Rio Salado),2006-01-01,2018-02-03,3486,2006-01-01
+2104004,DGA,dga_web,"Rio Loa En Alcantarilla Conchi N""1",2975,-21.9739,-68.6067,21,Rio Loa,210,Rio Loa Alto (Bajo Junta Rio Salado),1977-10-05,1979-08-31,657,-
+2104003,DGA,dga_web,"Rio Loa En Alcantarilla Conchi N""2",2932,-21.9756,-68.6075,21,Rio Loa,210,Rio Loa Alto (Bajo Junta Rio Salado),1979-08-26,2006-03-28,9131,-
+2104001,DGA,dga_web,Rio Loa En Conchi,3010,-21.9881,-68.6067,21,Rio Loa,210,Rio Loa Alto (Bajo Junta Rio Salado),1916-10-01,1975-12-31,8406,-
+2103014,DGA,dga_web,Rio Siloli Antes B.T. Fcab,4000,-22.0103,-68.0269,21,Rio Loa,210,Rio Loa Alto (Bajo Junta Rio Salado),2001-02-22,2018-03-09,5628,2011-01-01
+2104002,DGA,dga_web,Rio Loa En Salida Embalse Conchi,2950,-22.0278,-68.6208,21,Rio Loa,210,Rio Loa Alto (Bajo Junta Rio Salado),1976-02-12,2017-07-31,13159,-
+2105008,DGA,dga_web,Vertiente Turi Turi,0,-22.2289,-68.2808,21,Rio Loa,210,Rio Loa Alto (Bajo Junta Rio Salado),1980-05-30,1981-08-07,433,-
+2105007,DGA,dga_web,Rio Toconce Antes Represa Sendos,0,-22.2731,-68.1439,21,Rio Loa,210,Rio Loa Alto (Bajo Junta Rio Salado),1982-11-25,2016-04-27,9540,-
+2105001,DGA,dga_web,Rio Salado A. J. Curti,3080,-22.2792,-68.2428,21,Rio Loa,210,Rio Loa Alto (Bajo Junta Rio Salado),1975-12-23,2017-07-31,13251,-
+2105002,DGA,dga_web,Rio Salado En Sifon Ayquina,2980,-22.2894,-68.3447,21,Rio Loa,210,Rio Loa Alto (Bajo Junta Rio Salado),1975-03-23,2018-02-15,13495,2015-01-02
+2112007,DGA,dga_web,Rio Loa D. J. San Salvador-(M. Elena),1240,-22.3431,-69.565,32,Rio Loa,322,Rio Loa Medio (Entre Rio Salado Y Quebrada Amarga),1993-03-31,2016-11-24,6868,-
+2104005,DGA,dga_web,Rio Loa Antes Junta Rio Salado,2505,-22.3606,-68.65,21,Rio Loa,210,Rio Loa Alto (Bajo Junta Rio Salado),1916-10-03,1931-07-31,5293,-
+2105005,DGA,dga_web,Rio Salado A. J. Loa,2500,-22.3653,-68.6419,21,Rio Loa,210,Rio Loa Alto (Bajo Junta Rio Salado),1916-10-03,2013-08-27,8347,-
+2110008,DGA,dga_web,Rio Loa Despues Junta Rio Salado (Ca),2500,-22.3733,-68.6572,32,Rio Loa,322,Rio Loa Medio (Entre Rio Salado Y Quebrada Amarga),1916-10-01,1931-07-31,5356,-
+2112006,DGA,dga_web,Rio Loa D. J. San Salvador (Chacance),1238,-22.3922,-69.53,32,Rio Loa,322,Rio Loa Medio (Entre Rio Salado Y Quebrada Amarga),1915-12-16,2015-12-17,8749,-
+2111002,DGA,dga_web,Rio San Salvador Antes Junta Rio Loa,1238,-22.3947,-69.5261,32,Rio Loa,322,Rio Loa Medio (Entre Rio Salado Y Quebrada Amarga),1915-12-15,1986-04-30,4645,-
+2110007,DGA,dga_web,Rio Loa Antes Junta San Salvador,1238,-22.3961,-69.5278,32,Rio Loa,322,Rio Loa Medio (Entre Rio Salado Y Quebrada Amarga),1916-10-16,1984-09-24,1445,-
+2110001,DGA,dga_web,Rio Loa En Escorial,2450,-22.4419,-68.8886,32,Rio Loa,322,Rio Loa Medio (Entre Rio Salado Y Quebrada Amarga),1964-03-13,2018-03-03,7179,2014-01-03
+2110002,DGA,dga_web,Rio Loa En Yalquincha,2300,-22.4469,-68.8775,32,Rio Loa,322,Rio Loa Medio (Entre Rio Salado Y Quebrada Amarga),1947-06-18,2009-06-23,13851,-
+2110031,DGA,dga_web,Rio Loa En Angostura,2470,-22.4583,-68.7364,32,Rio Loa,322,Rio Loa Medio (Entre Rio Salado Y Quebrada Amarga),2011-01-01,2017-07-31,1895,2011-01-01
+2110003,DGA,dga_web,Rio Loa En Chintoraste,2200,-22.5028,-68.9772,32,Rio Loa,322,Rio Loa Medio (Entre Rio Salado Y Quebrada Amarga),1958-05-14,1972-03-24,4078,-
+2110004,DGA,dga_web,Rio Loa En Finca,2100,-22.5061,-68.9889,32,Rio Loa,322,Rio Loa Medio (Entre Rio Salado Y Quebrada Amarga),1971-06-08,2017-07-31,13869,-
+2510001,DGA,dga_web,Rio San Pedro En Cuchabrachi,2585,-22.8225,-68.1983,25,Salar De Atacama,251,Rio San Pedro,1947-06-23,2015-07-07,18345,-
+2500001,DGA,dga_web,Rio Vilama En Vilama,2550,-22.8667,-68.1833,25,Salar De Atacama,250,Salar De Atacama,1971-01-01,1972-02-03,379,-
+2500004,DGA,dga_web,Canal Vilama En Vilama,2550,-22.8697,-68.1792,25,Salar De Atacama,250,Salar De Atacama,1976-04-08,2016-12-19,13457,-
+2500002,DGA,dga_web,Canal Aguas Blancas,2415,-23.2725,-68.0133,25,Salar De Atacama,250,Salar De Atacama,1977-01-01,2001-04-17,4030,-
+2500005,DGA,dga_web,Canal Cuno En Socaire,3600,-23.6119,-67.8469,25,Salar De Atacama,250,Salar De Atacama,1989-11-03,2017-07-31,9410,-
+2500003,DGA,dga_web,Canal Tulan En Tilomonte,2450,-23.7897,-68.1081,25,Salar De Atacama,250,Salar De Atacama,1977-05-27,2000-08-22,3166,-
+2500006,DGA,dga_web,Canal Tilomonte Antes Represa,4000,-23.7967,-68.0953,25,Salar De Atacama,250,Salar De Atacama,1997-04-24,2017-07-31,7077,-
+3022001,DGA,dga_web,Rio La Ola En Vertedero,0,-26.4808,-69.06,30,Endorreicas Entre Frontera Y Vertiente,302,Salar De Pedernales,1986-06-17,2017-07-31,10006,-
+3041005,DGA,dga_web,Rio Lamas En El Salto,4130,-27.08,-68.9306,30,Endorreicas Entre Frontera Y Vertiente,304,Salar De Maricunga,1980-02-21,2017-07-31,12102,-
+3041004,DGA,dga_web,Rio Valle Ancho En La Barrera,3800,-27.1333,-69.0003,30,Endorreicas Entre Frontera Y Vertiente,304,Salar De Maricunga,1979-04-24,2017-07-31,6467,-
+3041002,DGA,dga_web,Rio Villalobos En Vertedero,3850,-27.2025,-69.025,30,Endorreicas Entre Frontera Y Vertiente,304,Salar De Maricunga,1979-06-07,2017-07-31,10651,-
+3041003,DGA,dga_web,Rio Valle Ancho Antes  Junta Barros Negros,3950,-27.2622,-69.0028,30,Endorreicas Entre Frontera Y Vertiente,304,Salar De Maricunga,1979-04-24,2017-07-31,7427,-
+3041001,DGA,dga_web,Rio Barros Negros Antes Junta Valle Ancho,3965,-27.2642,-68.9975,30,Endorreicas Entre Frontera Y Vertiente,304,Salar De Maricunga,1979-04-24,2017-07-31,7556,-
+3453001,DGA,dga_web,Rio Copiapo En Angostura,48,-27.3194,-70.8381,34,Rio Copiapo,345,Rio Copiapo Bajo (Entre Q. Paipote Y Desemb.),1963-04-29,2017-05-01,18383,-
+3450001,DGA,dga_web,Rio Copiapo En Ciudad De Copiapo,0,-27.3636,-70.3392,34,Rio Copiapo,345,Rio Copiapo Bajo (Entre Q. Paipote Y Desemb.),1983-01-02,2012-11-29,5865,-
+3050001,DGA,dga_web,Rio Astaburuaga En Cono,4130,-27.4597,-69.0453,30,Endorreicas Entre Frontera Y Vertiente,305,Laguna Del Negro Francisco,1979-12-16,2017-04-12,5984,-
+3434002,DGA,dga_web,Canal Mal Paso Despues De Bocatoma,431,-27.5147,-70.2644,34,Rio Copiapo,343,Rio Copiapo Medio (Entre R. Jorquera Q. Paipote),1988-09-16,2017-04-27,9363,-
+3434003,DGA,dga_web,Rio Copiapo En Mal Paso Aguas Abajo Canal,431,-27.5161,-70.2647,34,Rio Copiapo,343,Rio Copiapo Medio (Entre R. Jorquera Q. Paipote),1988-08-26,2015-03-24,5444,-
+3434001,DGA,dga_web,Rio Copiapo En Mal Paso Aguas Arriba Canal,431,-27.5244,-70.2689,34,Rio Copiapo,343,Rio Copiapo Medio (Entre R. Jorquera Q. Paipote),1929-07-30,1988-01-19,13886,-
+3431003,DGA,dga_web,Rio Copiapo En Pabellon,0,-27.6528,-70.2331,34,Rio Copiapo,343,Rio Copiapo Medio (Entre R. Jorquera Q. Paipote),1927-10-28,1930-07-03,859,-
+3431002,DGA,dga_web,Rio Copiapo En El Bosque,0,-27.7256,-69.6586,34,Rio Copiapo,343,Rio Copiapo Medio (Entre R. Jorquera Q. Paipote),1918-12-01,1931-08-31,3933,-
+3431001,DGA,dga_web,Rio Copiapo En La Puerta,915,-27.8044,-70.1269,34,Rio Copiapo,343,R.  Copiapo Medio,1927-10-19,2017-04-20,23794,2007-01-01
+3430002,DGA,dga_web,Rio Copiapo En San Antonio,850,-27.8667,-70.0667,34,Rio Copiapo,343,Rio Copiapo Medio (Entre R. Jorquera Q. Paipote),1927-10-18,1988-01-11,7351,-
+3430001,DGA,dga_web,Rio Copiapo En Lautaro,1200,-27.9747,-69.9978,34,Rio Copiapo,343,Rio Copiapo Medio (Entre R. Jorquera Q. Paipote),1931-09-24,2018-03-09,26302,2015-02-17
+3430003,DGA,dga_web,Rio Copiapo En Pastillo,1300,-28.0003,-69.9747,34,Rio Copiapo,343,R.  Copiapo Medio,1927-10-15,2018-03-09,19724,2015-04-23
+3404001,DGA,dga_web,Rio Jorquera En Vertedero,1250,-28.0431,-69.9567,34,Rio Copiapo,340,Rio Jorquera,1949-02-08,2017-07-31,18660,-
+3414001,DGA,dga_web,Rio Pulido En Vertedero,1310,-28.0858,-69.9408,34,Rio Copiapo,341,Rio Pulido,1964-02-04,2018-03-09,18973,2016-01-01
+3421002,DGA,dga_web,Rio Manflas Ante Junta Con Rio Copiapo,0,-28.1333,-70.0,34,Rio Copiapo,342,Rio Manflas,1985-07-01,1985-09-30,92,-
+3421001,DGA,dga_web,Rio Manflas En Vertedero,1550,-28.1478,-69.9939,34,Rio Copiapo,342,Rio Manflas,1964-02-04,2017-07-31,17307,-
+3826001,DGA,dga_web,Rio Huasco En Huasco Bajo,0,-28.4647,-71.1783,38,Rio Huasco,382,Rio Huasco,1987-08-21,1997-08-17,3096,-
+3825001,DGA,dga_web,Rio Huasco En Puente Nicolasa,167,-28.5119,-71.0064,38,Rio Huasco,382,Rio Huasco,1971-10-11,2017-07-31,9485,-
+3820003,DGA,dga_web,Rio Huasco En Santa Juana,575,-28.6719,-70.6464,38,Rio Huasco,382,Rio Huasco,1928-02-01,2017-07-31,19255,-
+3820002,DGA,dga_web,Rio Huasco En Chepica,600,-28.6997,-70.55,38,Rio Huasco,382,Rio Huasco,2001-06-07,2018-03-09,5670,2015-12-17
+3820001,DGA,dga_web,Rio Huasco En Algodones,750,-28.7306,-70.5067,38,Rio Huasco,382,Rio Huasco,1975-07-18,2017-07-31,12773,2015-12-17
+3815001,DGA,dga_web,Rio Carmen En Ramadillas,825,-28.75,-70.4867,38,Rio Huasco,381,Rio Del Carmen,1918-11-01,2017-06-30,21918,-
+3806001,DGA,dga_web,Rio Transito Antes Junta Rio Carmen,812,-28.7503,-70.4828,38,Rio Huasco,380,Rio Transito,1927-10-11,2015-02-24,28616,-
+3804004,DGA,dga_web,Rio Transito En El Transito,0,-28.8667,-70.2833,38,Rio Huasco,380,Rio Transito,1929-11-11,1931-08-31,619,-
+3802002,DGA,dga_web,Rio Conay En Junta Laguna Grande,0,-28.8833,-70.0667,38,Rio Huasco,380,Rio Transito,1928-02-01,1930-06-10,854,-
+3804003,DGA,dga_web,Rio Huasco En Chanchoquin,0,-28.9,-70.2833,38,Rio Huasco,380,Rio Transito,1927-10-09,1930-11-17,1109,-
+3815002,DGA,dga_web,Rio Carmen En Pte. La Majada,1075,-28.9319,-70.4581,38,Rio Huasco,381,Rio Del Carmen,1988-09-26,2017-07-31,8056,-
+3814001,DGA,dga_web,Rio Carmen En San Felix,812,-28.94,-70.4569,38,Rio Huasco,381,Rio Del Carmen,1929-11-28,1988-02-03,8405,-
+3804002,DGA,dga_web,Rio Transito En Angostura Pinte,1000,-28.9414,-70.2481,38,Rio Huasco,380,Rio Transito,1964-12-07,2017-07-31,17491,-
+3802001,DGA,dga_web,Rio Conay En Las Lozas,0,-28.9456,-70.1011,38,Rio Huasco,380,Rio Transito,1984-10-26,2018-03-09,10639,2017-07-28
+3804001,DGA,dga_web,Rio Transito En Los Tambos,1400,-28.95,-70.2167,38,Rio Huasco,380,Rio Transito,1958-11-01,1971-12-31,4147,-
+3802003,DGA,dga_web,Rio Huasco Antes Junta Rio Cholai-Conay,0,-28.975,-71.175,38,Rio Huasco,380,Rio Transito,1928-02-16,1930-06-11,846,-
+3814002,DGA,dga_web,Rio Carmen En El Colorado,0,-28.9833,-70.5167,38,Rio Huasco,381,Rio Del Carmen,1928-10-05,1931-08-31,1050,-
+3814003,DGA,dga_web,Rio Carmen En El Corral,2000,-29.1094,-70.4139,38,Rio Huasco,381,Rio Del Carmen,1991-10-11,2018-03-09,9354,2017-03-16
+4110001,DGA,dga_web,Rio Elqui En Molle,0,-29.4833,-70.9833,41,Rio Los Choros,411,Quebrada Del Pelicano,1946-08-16,1951-05-15,1560,-
+4302003,DGA,dga_web,Dren G Tranque El Indio (2-D Drenes),0,-29.8192,-70.0144,43,Rio Elqui,430,Rio Turbio,2002-05-01,2002-05-31,31,-
+4306001,DGA,dga_web,Rio Turbio En Huanta,1195,-29.8431,-70.3861,43,Rio Elqui,430,Rio Turbio,1928-11-01,1983-03-31,8383,-
+4331001,DGA,dga_web,Rio Elqui En Punta De Piedra,160,-29.8667,-71.1,43,Rio Elqui,433,Rio Elqui Bajo (Entre Q. El Arrayan Y Desemb),1952-07-13,1965-05-31,3891,-
+4335001,DGA,dga_web,Rio Elqui En La Serena,20,-29.8931,-71.2514,43,Rio Elqui,433,Rio Elqui Bajo (Entre Q. El Arrayan Y Desemb),1985-01-18,2017-06-30,9510,-
+4308001,DGA,dga_web,Rio Turbio En Varillar,890,-29.9458,-70.5328,43,Rio Elqui,430,Rio Turbio,1914-04-01,2018-03-09,36667,2016-10-02
+4305001,DGA,dga_web,Rio Turbio En Las Terneras,0,-29.95,-70.3833,43,Rio Elqui,430,Rio Turbio,1946-08-12,1948-02-08,545,-
+4302001,DGA,dga_web,Rio Toro Antes Junta Rio La Laguna,2165,-29.9711,-70.0928,43,Rio Elqui,430,Rio Turbio,1985-06-05,2018-03-09,11185,2016-10-02
+4314002,DGA,dga_web,Rio Claro En Rivadavia,820,-29.9781,-70.5525,43,Rio Elqui,431,Rio Claro,1914-03-16,2018-03-09,34943,2016-10-02
+4400001,DGA,dga_web,Estero Culebron En El Sifon,70,-29.9789,-71.2861,44,Costeras R.Elqui-R.Limari,440,Costeras Entre E. El Culebron Y Q. El Romeral,1986-03-01,2017-07-08,11020,-
+4323001,DGA,dga_web,Rio Elqui En Almendral,395,-29.9811,-70.8981,43,Rio Elqui,432,"Rio Elqui Medio (Jta Turbio, Claro Y Q El Arrayan)",1918-05-25,2017-07-31,24062,-
+4304001,DGA,dga_web,Rio Ingaguas En Las Terneras,0,-29.9833,-70.25,43,Rio Elqui,430,Rio Turbio,1946-08-12,1948-02-29,563,-
+4320001,DGA,dga_web,Rio Elqui En Algarrobal,760,-29.9953,-70.5867,43,Rio Elqui,432,R. Elqui Medio,1916-09-01,2018-03-09,29800,2015-04-01
+4323002,DGA,dga_web,Rio Elqui En Puclaro,445,-30.0,-70.85,43,Rio Elqui,432,"Rio Elqui Medio (Jta Turbio, Claro Y Q El Arrayan)",1963-01-08,1965-09-08,964,-
+4323003,DGA,dga_web,Rio Elqui En Gualliguaica,490,-30.0208,-70.7992,43,Rio Elqui,432,"Rio Elqui Medio (Jta Turbio, Claro Y Q El Arrayan)",1946-08-01,1965-07-17,4460,-
+4314001,DGA,dga_web,Rio Claro En Montegrande,1120,-30.0897,-70.4928,43,Rio Elqui,431,Rio Claro,1947-01-24,1983-03-31,12673,-
+4313001,DGA,dga_web,Rio Cochiguaz En El PeÑOn,1360,-30.1222,-70.4344,43,Rio Elqui,431,Rio Claro,1983-08-11,2017-06-08,12252,-
+4301003,DGA,dga_web,Rio La Laguna En Nueva Elqui,3100,-30.2,-70.0667,43,Rio Elqui,430,Rio Turbio,1928-04-09,1931-01-31,595,-
+4301002,DGA,dga_web,Rio La Laguna En Salida Embalse La Laguna,3130,-30.2028,-70.0361,43,Rio Elqui,430,Rio Turbio,1928-11-16,2017-07-31,19314,-
+4311001,DGA,dga_web,Estero Derecho En Alcohuaz,1645,-30.2206,-70.4928,43,Rio Elqui,431,Rio Claro,1983-11-03,2017-07-31,12249,-
+4502002,DGA,dga_web,Rio Hurtado En Hurtado,0,-30.2833,-70.7,45,Rio Limari,450,Rio Hurtado,1928-06-01,1931-10-31,1125,-
+4502001,DGA,dga_web,Rio Hurtado En La Cortadera,900,-30.3333,-70.7667,45,Rio Limari,450,Rio Hurtado,1968-02-16,1983-02-28,4388,-
+4501002,DGA,dga_web,Rio Hurtado En Las Breas,1645,-30.3833,-70.6,45,Rio Limari,450,Rio Hurtado,1928-06-10,1977-11-30,10721,-
+4503001,DGA,dga_web,Rio Hurtado En Angostura De Pangue,485,-30.4386,-71.0022,45,Rio Limari,450,Rio Hurtado,1918-09-01,2018-03-09,32616,2017-06-17
+4501001,DGA,dga_web,Rio Hurtado En San Agustin,2035,-30.4622,-70.5361,45,Rio Limari,450,Rio Hurtado,1962-12-17,2018-02-18,18321,2017-08-04
+4506002,DGA,dga_web,Rio Hurtado En Entrada Embalse Recoleta,410,-30.4772,-71.0692,45,Rio Limari,450,Rio Hurtado,1928-05-26,1984-01-31,7585,-
+4506003,DGA,dga_web,Canal Tuqui En Salida Embalse Recoleta,380,-30.4961,-71.0931,45,Rio Limari,450,Rio Hurtado,1970-02-11,2013-01-31,12283,-
+4506004,DGA,dga_web,Canal Alimentador Recoleta Entrada Embalse,400,-30.5,-71.0667,45,Rio Limari,450,Rio Hurtado,1959-08-13,1967-01-29,980,-
+4550003,DGA,dga_web,Rio Limari En PeÑOnes Bajos,225,-30.5903,-71.1714,45,Rio Limari,455,Rio Limari,1941-10-23,1983-03-31,13642,-
+4550001,DGA,dga_web,Rio Limari En Puntilla De Ovalle,0,-30.6167,-71.2,45,Rio Limari,455,Rio Limari,1916-08-01,1931-08-31,4148,-
+4558001,DGA,dga_web,Rio Limari En Panamericana,165,-30.6667,-71.5333,45,Rio Limari,455,Rio Limari,1958-10-01,2017-07-31,18912,-
+4557002,DGA,dga_web,Estero Punitaqui Antes Junta Rio Limari,170,-30.6722,-71.5267,45,Rio Limari,455,Rio Limari,1962-10-16,2017-02-28,11733,-
+4540001,DGA,dga_web,Rio Grande En Paloma 1,310,-30.6833,-71.05,45,Rio Limari,454,Rio Grande Bajo (Entre E Paloma Y Rio Hurtado),1927-06-01,1984-07-08,11575,-
+4716003,DGA,dga_web,Canal Tamelcura,0,-30.6972,-71.0417,47,Rio Choapa,471,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),1962-03-01,1963-06-30,475,-
+4540002,DGA,dga_web,Rio Guatulame En Desembocadura Embalse La Paloma,330,-30.6997,-71.0358,45,Rio Limari,454,Rio Grande Bajo (Entre E Paloma Y Rio Hurtado),1946-10-03,1965-06-25,6599,-
+4506005,DGA,dga_web,Canal Alimentador Recoleta En Bocatoma,450,-30.7,-70.9,45,Rio Limari,450,Rio Hurtado,1959-07-01,1977-05-17,3392,-
+4540003,DGA,dga_web,Canal Camarico Aguas Abajo Compuertas,0,-30.7,-71.05,45,Rio Limari,454,Rio Grande Bajo (Entre E Paloma Y Rio Hurtado),1958-10-02,1986-11-24,6290,-
+4523001,DGA,dga_web,Rio Grande En Agua Chica,440,-30.7022,-70.9,45,Rio Limari,452,Rio Grande Medio (Arriba Junta Rapel Y E Paloma),1946-09-15,1983-02-28,12390,-
+4523002,DGA,dga_web,Rio Grande En Puntilla San Juan,420,-30.7047,-70.9244,45,Rio Limari,452,Rio Grande Medio (Arriba Junta Rapel Y E Paloma),1942-03-01,2018-03-09,25038,2017-08-01
+4522002,DGA,dga_web,Rio Rapel En Junta,485,-30.7081,-70.8728,45,Rio Limari,452,Rio Grande Medio (Arriba Junta Rapel Y E Paloma),1959-04-01,2017-07-31,18595,-
+4520004,DGA,dga_web,Rio Rapel En Los Molles,0,-30.7167,-70.6667,45,Rio Limari,452,Rio Grande Medio (Arriba Junta Rapel Y E Paloma),1941-10-02,1947-12-08,1006,-
+4522001,DGA,dga_web,Rio Rapel En Paloma,1190,-30.7333,-70.6167,45,Rio Limari,452,Rio Grande Medio (Arriba Junta Rapel Y E Paloma),1941-10-02,1983-03-23,4702,-
+4520001,DGA,dga_web,Rio Los Molles En Ojos De Agua,2355,-30.7436,-70.4389,45,Rio Limari,452,Rio Grande Medio (Arriba Junta Rapel Y E Paloma),1970-05-22,2017-07-31,16041,-
+4520003,DGA,dga_web,Rio Los Molles En Bocatoma,2620,-30.75,-70.4417,45,Rio Limari,452,Rio Grande Medio (Arriba Junta Rapel Y E Paloma),1970-08-01,1971-07-31,363,-
+4556001,DGA,dga_web,Estero Punitaqui En Chalinga,175,-30.75,-71.4167,45,Rio Limari,455,Rio Limari,1968-08-01,1983-03-31,4724,-
+4520002,DGA,dga_web,Canal Central Los Molles En Camara Dga,2465,-30.7656,-70.6158,45,Rio Limari,452,Rio Grande Medio (Arriba Junta Rapel Y E Paloma),1970-07-24,2017-07-31,15360,-
+4516001,DGA,dga_web,Rio Grande En Coipo,575,-30.7828,-70.8222,45,Rio Limari,451,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),1942-12-01,1978-04-26,9143,-
+4537001,DGA,dga_web,Rio Guatulame En El Tome,410,-30.8006,-70.9697,45,Rio Limari,453,Rio Huatulame (Muro Embalse Paloma),1963-07-01,2017-07-31,16613,-
+4514001,DGA,dga_web,Rio Mostazal En Cuestecita,1250,-30.8128,-70.6128,45,Rio Limari,451,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),1969-10-03,2017-07-31,16358,-
+4516003,DGA,dga_web,Rio Grande En Zemita,0,-30.8144,-70.8042,45,Rio Limari,451,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),1918-08-01,1941-08-08,7923,-
+4516002,DGA,dga_web,Canal Palqui En Semita,660,-30.8167,-70.7833,45,Rio Limari,451,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),1959-12-01,1983-03-31,5314,-
+4515002,DGA,dga_web,Rio Mostazal En Caren,700,-30.8422,-70.7694,45,Rio Limari,451,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),1972-07-24,2017-07-31,13538,-
+4515001,DGA,dga_web,Rio Mostazal Antes Junta Rio Tulahuencito,685,-30.8456,-70.7139,45,Rio Limari,451,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),1959-05-01,1967-10-31,3045,-
+4537002,DGA,dga_web,Rio Guatulame En Huanilla,0,-30.8667,-70.9833,45,Rio Limari,453,Rio Huatulame (Muro Embalse Paloma),1927-06-01,1930-08-29,959,-
+4535003,DGA,dga_web,Canal Matriz Cogoti En Bocatoma,485,-30.8833,-71.0167,45,Rio Limari,453,Rio Huatulame (Muro Embalse Paloma),1981-01-06,1987-06-19,1064,-
+4513001,DGA,dga_web,Rio Grande En Cuyano,870,-30.9242,-70.7731,45,Rio Limari,451,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),1959-05-05,2018-03-09,20719,2017-08-04
+4535004,DGA,dga_web,Rio Guatulame En San Marcos,0,-30.925,-71.0583,45,Rio Limari,453,Rio Huatulame (Muro Embalse Paloma),1927-06-01,1934-05-19,2544,-
+4511001,DGA,dga_web,Rio Grande En Las Pegas,1512,-30.95,-70.5167,45,Rio Limari,451,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),1942-05-08,1948-01-07,1471,-
+4535002,DGA,dga_web,Rio Guatulame En Salida Embalse Cogoti,625,-30.9986,-71.09,45,Rio Limari,453,Rio Huatulame (Muro Embalse Paloma),1960-05-05,1984-05-15,7305,-
+4511002,DGA,dga_web,Rio Grande En Las Ramadas,1380,-31.0117,-70.5811,45,Rio Limari,451,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),1961-05-18,2018-02-08,18920,2014-09-01
+4512001,DGA,dga_web,Rio Tascadero En Desembocadura,1370,-31.0119,-70.6644,45,Rio Limari,451,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),1962-10-23,2017-07-31,18576,-
+4531002,DGA,dga_web,Rio Cogoti Entrada Embalse Cogoti,670,-31.0325,-71.0403,45,Rio Limari,453,Rio Huatulame (Muro Embalse Paloma),1953-01-10,2018-02-25,18232,2014-10-10
+4531001,DGA,dga_web,Rio Cogoti En Cogoti 18,810,-31.0833,-70.9556,45,Rio Limari,453,Rio Huatulame (Muro Embalse Paloma),1942-01-01,1983-03-31,9880,-
+4534001,DGA,dga_web,Rio Pama Entrada Embalse Cogoti,680,-31.0833,-71.0667,45,Rio Limari,453,Rio Huatulame (Muro Embalse Paloma),1953-01-13,1983-04-30,7452,-
+4530001,DGA,dga_web,Rio Cogoti En Fraguita,1065,-31.1119,-70.885,45,Rio Limari,453,R. Guatulame (Muro Embalse Paloma),1971-09-14,2018-03-09,14957,2015-01-15
+4533001,DGA,dga_web,Quebrada Pana En Fonditos,0,-31.1667,-71.0833,45,Rio Limari,453,Rio Huatulame (Muro Embalse Paloma),1927-05-06,1942-03-17,1805,-
+4532002,DGA,dga_web,Rio Combarbala En Combarbala,0,-31.1783,-70.9908,45,Rio Limari,453,Rio Huatulame (Muro Embalse Paloma),1927-05-07,1942-03-20,2829,-
+4532001,DGA,dga_web,Rio Combarbala En Ramadillas,1430,-31.2281,-70.9125,45,Rio Limari,453,Rio Huatulame (Muro Embalse Paloma),1975-12-27,2017-07-31,13551,-
+4533002,DGA,dga_web,Rio Pama En Valle Hermoso,850,-31.2656,-70.9908,45,Rio Limari,453,Rio Huatulame (Muro Embalse Paloma),1987-10-27,2017-07-31,10022,-
+4721001,DGA,dga_web,Rio Illapel En Las Burras,1079,-31.5069,-70.8125,47,Rio Choapa,472,Rio Illapel,1962-03-04,2018-02-23,19057,2017-05-03
+4723001,DGA,dga_web,Rio Illapel En Huintil,775,-31.5608,-70.9644,47,Rio Choapa,472,Rio Illapel,1927-05-17,2018-03-09,25950,2016-10-02
+4730001,DGA,dga_web,Rio Choapa Aguas Arriba Estero La Canela,40,-31.5836,-71.4606,47,Rio Choapa,473,Rio Choapa Bajo (Entre Rio Illapel Y Desemb.),1961-12-26,2018-03-09,15598,2015-04-01
+4726002,DGA,dga_web,Rio Illapel En Santa Cruz,0,-31.65,-71.2167,47,Rio Choapa,472,Rio Illapel,1928-09-01,1931-06-30,1025,-
+4726001,DGA,dga_web,Rio Illapel En El Peral,0,-31.6647,-71.2547,47,Rio Choapa,472,Rio Illapel,1983-05-01,2018-03-09,12011,2015-01-29
+4713002,DGA,dga_web,Rio Chalinga En Potrero Maitenes,0,-31.6667,-70.9333,47,Rio Choapa,471,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),1929-11-01,1952-11-18,7117,-
+4716004,DGA,dga_web,Rio Choapa En Puente Negro,200,-31.6881,-71.2658,47,Rio Choapa,471,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),1918-01-24,2018-03-09,25164,2016-04-08
+4712001,DGA,dga_web,Rio Chalinga En La Palmilla,800,-31.6958,-70.7158,47,Rio Choapa,471,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),1991-10-29,2018-01-24,9330,2013-05-24
+4716002,DGA,dga_web,Rio Choapa En Puente Ff.Cc.,0,-31.7167,-71.2167,47,Rio Choapa,471,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),1946-09-24,1952-11-30,2193,-
+4713001,DGA,dga_web,Rio Chalinga En San Agustin,850,-31.7186,-70.8442,47,Rio Choapa,471,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),1928-11-10,1973-05-31,13056,-
+4713003,DGA,dga_web,Rio Chalinga En Chalinga,0,-31.7408,-70.9522,47,Rio Choapa,471,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),1928-11-14,1930-09-16,659,-
+4716001,DGA,dga_web,Rio Choapa En Lamahuida,275,-31.7422,-71.1492,47,Rio Choapa,471,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),1958-12-03,1983-02-18,7410,-
+4714001,DGA,dga_web,Estero Camisas En Desembocadura,400,-31.7714,-71.0639,47,Rio Choapa,471,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),1965-01-22,2003-09-26,10144,-
+4711002,DGA,dga_web,Canal Caracha En Bocatoma,500,-31.7833,-70.9667,47,Rio Choapa,471,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),1985-09-03,1987-07-06,641,-
+4711001,DGA,dga_web,Rio Choapa En Salamanca,500,-31.8117,-70.9303,47,Rio Choapa,471,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),1931-06-01,2018-03-09,20875,2014-08-01
+4704001,DGA,dga_web,Rio Cuncumen Antes Junta Choapa (Chacay),1030,-31.8167,-70.6,47,Rio Choapa,470,Rio Choapa Alto (Hasta Abajo Junta Rio Cuncumen),2000-01-01,2018-03-09,5994,2000-01-01
+4704002,DGA,dga_web,Rio Cuncumen Antes Bocatoma De Canales,1360,-31.8289,-70.5972,47,Rio Choapa,470,Rio Choapa Alto (Hasta Abajo Junta Rio Cuncumen),1965-10-15,2005-12-01,10120,-
+4810005,DGA,dga_web,Estero Pupio Antes Quebrada Llau-Llau,632,-31.9456,-71.0606,48,Costeras R.Choapa-R.Quilimari,481,Estero Pupio,2011-01-01,2018-03-09,2238,2011-01-01
+4810006,DGA,dga_web,Quebrada Llau-Llau,624,-31.9461,-71.0619,48,Costeras R.Choapa-R.Quilimari,481,Estero Pupio,2015-08-01,2017-07-31,452,-
+4810001,DGA,dga_web,Estero Pupio En El Romero,570,-31.9481,-71.0747,48,Costeras Entre R.Choapa Y R.Quilimari,481,Estero Pupio,1989-10-04,2018-03-09,9323,2015-04-24
+4703002,DGA,dga_web,Rio Choapa En Cuncumen,1200,-31.9667,-70.5944,47,Rio Choapa,470,Rio Choapa Alto (Hasta Abajo Junta Rio Cuncumen),1965-10-14,2018-03-09,17941,2016-12-31
+4703001,DGA,dga_web,Rio Choapa Sobre El Rio Valle,1260,-31.9833,-70.5667,47,Rio Choapa,470,Rio Choapa Alto (Hasta Abajo Junta Rio Cuncumen),1965-12-07,1982-12-03,4366,-
+4700001,DGA,dga_web,Estero El Soldado En Laguna El Pelado,3500,-32.0,-70.3167,47,Rio Choapa,470,Rio Choapa Alto (Hasta Abajo Junta Rio Cuncumen),1950-02-15,1985-02-18,2944,-
+5101001,DGA,dga_web,Rio Pedernal En Tejada,1080,-32.0708,-70.7564,51,Rio Petorca,510,Rio Petorca Alto (Hasta Despues Jta Rio Sobrante),1962-12-22,2017-07-31,14260,-
+4901001,DGA,dga_web,Rio Quilimari En Los Condores,200,-32.1,-71.2833,49,Rio Quilimari,490,Rio Quilimari Hasta Muro Embalse Culimo,1964-11-19,1978-07-31,2846,-
+4902001,DGA,dga_web,Rio Quilimari En Retama,0,-32.1333,-71.4,49,Rio Quilimari,490,Rio Quilimari Hasta Muro Embalse Culimo,1929-03-01,1931-08-31,912,-
+4900001,DGA,dga_web,Rio Quilimari En Chivato,0,-32.15,-71.1708,49,Rio Quilimari,490,Rio Quilimari Hasta Muro Embalse Culimo,1928-07-03,1929-06-03,289,-
+5101002,DGA,dga_web,Rio Chalaco En Embalse,1883,-32.1667,-70.8167,51,Rio Petorca,510,Rio Petorca Alto (Hasta Despues Jta Rio Sobrante),1974-06-28,1981-09-24,1052,-
+5100001,DGA,dga_web,Rio Sobrante En Piadero,1300,-32.2253,-70.7119,51,Rio Petorca,510,Rio Petorca Alto (Hasta Despues Junta Rio Sobrante),1928-08-06,2018-03-09,19263,2012-05-28
+5110001,DGA,dga_web,Rio Petorca En Petorca,0,-32.25,-70.9333,51,Rio Petorca,511,Rio Petorca Medio (Entre Sobrante Y E Las Palmas),1928-08-09,1930-06-30,621,-
+5111003,DGA,dga_web,Estero Las Palmas En Palquico,0,-32.2544,-71.1333,51,Rio Petorca,511,Rio Petorca Medio (Entre Sobrante Y E Las Palmas),1974-06-10,1983-11-29,1691,-
+5110002,DGA,dga_web,Rio Petorca En Peon O Hierro Viejo,450,-32.2786,-70.9889,51,Rio Petorca,511,Petorca Medio,1979-05-05,2017-07-31,11299,-
+5200001,DGA,dga_web,Rio Alicahue En Colliguay,780,-32.33,-70.7381,52,Rio Ligua,520,Rio Ligua Alto (Estero Alicahue),1963-11-30,2018-03-09,17991,2007-08-01
+5120001,DGA,dga_web,Rio Petorca En Longotoma O Puente Ff,126,-32.3778,-71.3719,51,Rio Petorca,512,Rio Petorca Bajo (Entre Las Palmas Y Desemb.),1979-05-07,2017-07-31,10236,-
+5220002,DGA,dga_web,Rio Ligua En Cabildo,0,-32.4253,-71.0808,52,Rio Ligua,522,Rio Ligua Bajo (Entre Estero Los Angeles Y Desemb.,1925-01-01,1928-07-31,521,-
+5221002,DGA,dga_web,Rio Ligua En Quinquimo,18,-32.4414,-71.3139,52,Rio Ligua,522,Rio Ligua Bajo (Entre Estero Los Angeles Y Desemb.,1979-05-05,2016-07-31,11106,-
+5221001,DGA,dga_web,Rio Ligua En Placilla,150,-32.4417,-71.2994,52,Rio Ligua,522,Rio Ligua Bajo (Entre Estero Los Angeles Y Desemb.,1964-04-01,1982-06-30,2635,-
+5414001,DGA,dga_web,Rio Putaendo En Resguardo Los Patos,1218,-32.5017,-70.5811,54,Rio Aconcagua,541,Aconcagua Medio,1939-09-01,2018-03-09,26911,2012-10-18
+5415002,DGA,dga_web,Estero Hualtatas En Desembocadura,0,-32.6942,-70.4089,54,Rio Aconcagua,541,Rio Aconcagua Medio (Entre Rio Colorado Y E Seco),1929-10-27,1936-06-30,2427,-
+5415001,DGA,dga_web,Estero Quilpue Antes Junta Rio Aconcagua,530,-32.7292,-70.7467,54,Rio Aconcagua,541,Rio Aconcagua Medio (Entre Rio Colorado Y E Seco),1962-07-12,1972-09-12,2041,-
+5405001,DGA,dga_web,Rio Los Riecillos Antes Junta Rio Colorado,0,-32.75,-70.3167,54,Rio Aconcagua,540,Rio Aconcagua Alto (Rio Colorado Y E. Riecillos),1929-07-01,1942-04-30,4676,-
+5410003,DGA,dga_web,Canal Parry 2 Despues Bt Aconcagua,630,-32.75,-70.7333,54,Rio Aconcagua,541,Rio Aconcagua Medio (Entre Rio Colorado Y E Seco),1962-07-20,1975-02-24,3098,-
+5420004,DGA,dga_web,Rio Aconcagua En Panquehue (Ca),510,-32.75,-70.8333,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1946-08-21,1951-11-14,1063,-
+5410005,DGA,dga_web,Rio Aconcagua En San Felipe,650,-32.7572,-70.7367,54,Rio Aconcagua,541,Aconcagua Medio,1918-11-01,2018-03-09,20264,2007-08-01
+5411002,DGA,dga_web,Estero Pocuro Antes Junta Rio Aconcagua,830,-32.7636,-70.725,54,Rio Aconcagua,541,Rio Aconcagua Medio (Entre Rio Colorado Y E Seco),1929-11-01,1983-08-01,7779,-
+5420001,DGA,dga_web,Estero De Los Campos En Las Compuertas,0,-32.7667,-70.8333,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1985-01-22,1985-12-31,344,-
+5421002,DGA,dga_web,Estero Catemu En Puente Santa Rosa,510,-32.7769,-70.9772,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1985-11-01,2017-07-31,11010,-
+5424001,DGA,dga_web,Estero Litre En Panamericana,220,-32.7833,-71.2167,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1962-07-19,1963-10-20,159,-
+5320001,DGA,dga_web,Estero Quintero En Valle Alegre,40,-32.7936,-71.4161,53,Costeras Ligua-Aconcagua,532,Costeras Entre Estero Catapilco Y Rio Aconcagua,1996-09-09,2017-07-31,6114,-
+5421003,DGA,dga_web,Rio Aconcagua En Chagres,0,-32.8,-70.9833,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1920-08-24,1930-03-31,1177,-
+5420002,DGA,dga_web,Estero De Los Campos En Antes Junta Rio Aconcagua,550,-32.8019,-70.9294,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1962-07-12,1983-07-08,7348,-
+5421001,DGA,dga_web,Estero Catemu Antes Junta Rio Aconcagua,510,-32.8167,-71.0,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1962-07-21,1984-12-31,7599,-
+5425002,DGA,dga_web,Rio Aconcagua En Puente Lo Rojas,170,-32.8167,-71.25,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1962-06-01,1965-08-08,894,-
+5425001,DGA,dga_web,Estero Lo Rojas Antes Junta Rio Aconcagua,170,-32.8167,-71.2667,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1962-08-02,1964-11-11,473,-
+5423002,DGA,dga_web,Estero Las Vegas Aguas Abajo Canal Las Vegas,0,-32.8333,-71.0167,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1972-07-01,1984-04-30,1609,-
+5423004,DGA,dga_web,Estero Romeral Antes Junta Rio Aconcagua,544,-32.8333,-71.0833,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1962-07-20,1984-06-30,5333,-
+5404001,DGA,dga_web,Canal Colorado En Bocatoma,1391,-32.8347,-70.3533,54,Rio Aconcagua,540,Aconcagua Alto,2014-01-01,2018-03-09,1381,2014-01-01
+5422001,DGA,dga_web,Estero Las Vegas En Desembocadura,0,-32.8347,-70.9983,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1962-07-01,2002-06-04,12562,-
+5423001,DGA,dga_web,Canal Las Vegas En Bocatoma,320,-32.8369,-71.0042,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1962-08-28,2017-07-31,15549,-
+5423003,DGA,dga_web,Rio Aconcagua En Romeral,365,-32.8403,-71.0256,54,Rio Aconcagua,542,Aconcagua Bajo,1959-07-08,2018-03-09,11305,2001-10-10
+5423005,DGA,dga_web,Rio Aconcagua En Panamericana,210,-32.8439,-71.1164,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1962-07-01,1990-10-31,2662,-
+5410001,DGA,dga_web,Rio Aconcagua En Vizcachas,930,-32.85,-70.5,54,Rio Aconcagua,541,Rio Aconcagua Medio (Entre Rio Colorado Y E Seco),1913-10-01,1936-06-07,3667,-
+5423011,DGA,dga_web,Canal Puntilla Torrejon En Bocatoma,210,-32.85,-71.1167,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1991-06-19,1992-01-31,217,-
+5423010,DGA,dga_web,Canal Comunidad Purutun En Bocatoma,210,-32.85,-71.1167,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1991-06-19,1992-01-31,216,-
+5423009,DGA,dga_web,Canal Comunidad Hijuela En Bocatoma,210,-32.85,-71.1167,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1991-06-22,1992-01-31,222,-
+5423008,DGA,dga_web,Canal Melon En Bocatoma,210,-32.85,-71.1167,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1991-09-28,1992-01-31,123,-
+5410002,DGA,dga_web,Rio Aconcagua En Chacabuquito,950,-32.8503,-70.5094,54,Rio Aconcagua,541,Aconcagua Medio,1936-09-02,2018-03-09,26570,2012-03-01
+5406002,DGA,dga_web,Rio Colorado Antes Junta Rio Aconcagua,0,-32.8556,-70.4092,54,Rio Aconcagua,540,Rio Aconcagua Alto (Rio Colorado Y E. Riecillos),1914-05-21,1944-04-30,8244,-
+5406001,DGA,dga_web,Rio Colorado En Colorado,1062,-32.8572,-70.4122,54,Rio Aconcagua,540,Rio Aconcagua Alto (Rio Colorado Y E. Riecillos),1964-11-01,2017-07-31,16240,-
+5401003,DGA,dga_web,Rio Juncal En Juncal,1800,-32.8625,-70.1675,54,Rio Aconcagua,540,Aconcagua Alto,1913-02-15,2018-03-09,20985,2016-04-20
+5403003,DGA,dga_web,Rio Aconcagua En Los Quilos,1062,-32.8667,-70.4167,54,Rio Aconcagua,540,Rio Aconcagua Alto (Rio Colorado Y E. Riecillos),1965-01-30,1981-03-28,5015,-
+5423006,DGA,dga_web,Estero Rabuco En Fundo Rabuco,300,-32.8667,-71.1333,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1969-01-01,1983-09-07,5012,-
+5426001,DGA,dga_web,Rio Aconcagua En Puente Boco (Ca),120,-32.8667,-71.25,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1962-07-17,1966-07-10,1124,-
+5401002,DGA,dga_web,Rio Juncal Ante Junta Rio Blanco,0,-32.9044,-70.2939,54,Rio Aconcagua,540,Rio Aconcagua Alto (Rio Colorado Y E. Riecillos),1914-01-16,1930-12-31,5787,-
+5403002,DGA,dga_web,Rio Aconcagua En Rio Blanco,1420,-32.9067,-70.3036,54,Rio Aconcagua,540,Aconcagua Alto,1970-04-02,2018-03-09,15643,2015-08-20
+5402001,DGA,dga_web,Rio Blanco En Rio Blanco,1420,-32.9072,-70.2978,54,Rio Aconcagua,540,Rio Aconcagua Alto (Rio Colorado Y E. Riecillos),1914-01-16,2018-03-09,21955,2014-12-10
+5411001,DGA,dga_web,Estero Pocuro En El Sifon,1000,-32.9164,-70.5403,54,Rio Aconcagua,541,Rio Aconcagua Medio (Entre Rio Colorado Y E Seco),1930-12-19,2017-07-31,26261,-
+5402002,DGA,dga_web,Canal Chacabuco En Bocatoma,0,-32.9167,-70.3333,54,Rio Aconcagua,540,Rio Aconcagua Alto (Rio Colorado Y E. Riecillos),1984-06-12,1985-12-31,399,-
+5427003,DGA,dga_web,Estero De Limache Antes Junta Rio Aconcagua,120,-32.9242,-71.4439,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1970-12-01,1983-07-08,3740,-
+5400002,DGA,dga_web,Rio Juncalillo En Calaveras,0,-32.9333,-70.25,54,Rio Aconcagua,540,Rio Aconcagua Alto (Rio Colorado Y E. Riecillos),1913-02-17,1931-05-30,2857,-
+5426002,DGA,dga_web,Rio Aconcagua En Tabolango,60,-32.9333,-71.3667,54,Rio Aconcagua,542,Rio Aconcagua Bajo (Entre Despues E Seco Y Desemb),1963-02-18,1970-03-31,1834,-
+5402015,DGA,dga_web,Rio Blanco Antes Junta Rio De Los Leones,0,-32.98,-70.2547,54,Rio Aconcagua,540,Rio Aconcagua Alto (Rio Colorado Y E. Riecillos),2014-01-01,2018-03-09,1106,2014-01-01
+5741001,DGA,dga_web,Estero Puangue En Boqueron,488,-33.1669,-71.1306,57,Rio Maipo,574,Rio Maipo Bajo (Entre Rio Mapocho Y Desembocadura),1929-06-26,2017-07-31,22212,-
+5735001,DGA,dga_web,Canal Colina En Peldehue,860,-33.1967,-70.5808,57,Rio Maipo,573,Rio Mapocho Bajo (Entre E De Las Rosas Y R Maipo),1980-11-28,2017-07-05,12284,-
+5734001,DGA,dga_web,Estero Polpaico En Chicauma,500,-33.1983,-70.8956,57,Rio Maipo,573,Rio Mapocho Bajo (Entre E De Las Rosas Y R Maipo),1943-05-01,2006-10-11,17973,-
+5735004,DGA,dga_web,Canal Colina En Seccion Las Huacas,0,-33.2,-70.75,57,Rio Maipo,573,Rio Mapocho Bajo (Entre E De Las Rosas Y R Maipo),1930-06-18,1934-01-31,665,-
+5735003,DGA,dga_web,Rio Colina Seccion Las Huacas,0,-33.2167,-70.7667,57,Rio Maipo,573,Rio Mapocho Bajo (Entre E De Las Rosas Y R Maipo),1930-06-01,1939-12-31,2398,-
+5721017,DGA,dga_web,Estero Yerba Loca En Piedra Carvajal,3250,-33.2214,-70.2736,57,Rio Maipo,572,Rio Mapocho Alto,2013-02-04,2018-03-09,1817,2013-02-04
+5721016,DGA,dga_web,Rio San Francisco Antes Junta Estero Yerba Loca,1550,-33.3086,-70.3572,57,Rio Maipo,572,Rio Mapocho Alto,2009-08-05,2018-03-09,2727,2013-06-08
+5722001,DGA,dga_web,Estero Arrayan En La Montosa,880,-33.3256,-70.4561,57,Rio Maipo,572,Rio Mapocho Alto,1952-10-01,2018-03-09,19768,2015-06-01
+5721001,DGA,dga_web,Estero Yerba Loca Antes Junta San Francisco,1350,-33.3414,-70.3636,57,Rio Maipo,572,Rio Mapocho Alto,1986-11-03,2018-03-09,11372,2013-06-08
+5722006,DGA,dga_web,Estero Arrayan En Desembocadura (Ca),870,-33.3583,-70.4828,57,Rio Maipo,572,Rio Mapocho Alto (Hasta Bajo Junta E De Las Rosas),1942-10-18,1945-12-31,776,-
+5722004,DGA,dga_web,Rio Mapocho En Puente Nilhue,0,-33.3667,-70.45,57,Rio Maipo,572,Rio Mapocho Alto (Hasta Bajo Junta E De Las Rosas),1928-05-23,1940-07-19,4440,-
+5722003,DGA,dga_web,Rio Mapocho En Las Condes,0,-33.3667,-70.45,57,Rio Maipo,572,Rio Mapocho Alto (Hasta Bajo Junta E De Las Rosas),1943-02-15,1948-07-31,1987,-
+5722002,DGA,dga_web,Rio Mapocho En Los Almendros,966,-33.3703,-70.4508,57,Rio Maipo,572,Rio Mapocho Alto,1948-08-03,2017-08-31,22276,2012-04-28
+5720001,DGA,dga_web,Rio Molina Antes Junta San Francisco,1158,-33.3733,-70.3961,57,Rio Maipo,572,Rio Mapocho Alto,1987-02-16,2018-03-09,3209,2013-09-02
+5730003,DGA,dga_web,Canal San Carlos En Desembocadura Rio Mapocho,580,-33.4125,-70.6047,57,Rio Maipo,573,Rio Mapocho Bajo (Entre E De Las Rosas Y R Maipo),1961-07-03,1982-01-29,3599,-
+5730002,DGA,dga_web,Canal San Carlos En Principe De Gales,579,-33.4167,-70.5833,57,Rio Maipo,573,Rio Mapocho Bajo (Entre E De Las Rosas Y R Maipo),1979-06-01,1981-09-22,826,-
+5730008,DGA,dga_web,Quebrada Ramon En Recinto Emos,845,-33.4331,-70.5142,57,Rio Maipo,573,Rio Mapocho Bajo,1991-02-13,2016-01-31,8456,-
+5730011,DGA,dga_web,Rio Mapocho En Pte Pudahuel,450,-33.4333,-70.8167,57,Rio Maipo,573,Rio Mapocho Bajo (Entre E De Las Rosas Y R Maipo),1928-05-20,1931-08-31,1199,-
+5730004,DGA,dga_web,Zanjon De La Aguada En Santa Rosa,0,-33.4764,-70.6347,57,Rio Maipo,573,Rio Mapocho Bajo (Entre E De Las Rosas Y R Maipo),1928-06-22,1939-04-30,3904,-
+5730005,DGA,dga_web,Zanjon De La Aguada Puente Particular,450,-33.4783,-70.7172,57,Rio Maipo,573,Rio Mapocho Bajo (Entre E De Las Rosas Y R Maipo),1971-11-17,1987-12-31,5421,-
+5730006,DGA,dga_web,Zanjon De La Aguada En Pajaritos,430,-33.4792,-70.7261,57,Rio Maipo,573,Rio Mapocho Bajo (Entre E De Las Rosas Y R Maipo),1968-07-01,1969-08-08,176,-
+5706001,DGA,dga_web,Rio Olivares Antes Junta Rio Colorado,1500,-33.4878,-70.1367,57,Rio Maipo,570,Rio Maipo Alto,1977-02-09,2018-03-09,13787,2017-04-01
+5705001,DGA,dga_web,Rio Colorado Antes Junta Rio Olivares,1500,-33.49,-70.1342,57,Rio Maipo,570,Rio Maipo Alto,1977-03-30,2018-03-09,11834,2017-07-01
+5737002,DGA,dga_web,Rio Mapocho Rinconada De Maipu,440,-33.4961,-70.8167,57,Rio Maipo,573,Rio Mapocho Bajo,1959-10-04,2017-05-23,19702,2015-08-01
+5730039,DGA,dga_web,Quebrada De Macul,950,-33.5017,-70.5144,57,Rio Maipo,573,Rio Mapocho Bajo,2013-02-07,2016-01-01,5,2013-02-07
+5707001,DGA,dga_web,Rio Colorado En Maitenes,0,-33.5264,-70.2664,57,Rio Maipo,570,Rio Maipo Alto (Hasta Despues Junta Rio Colorado),1916-01-01,1936-07-30,3777,-
+5530001,DGA,dga_web,Estero Cartagena Despues Junta Zarate,24,-33.5283,-71.5269,55,Costeras Aconcagua-Maipo,553,Costeras Entre E Del Rosario (Incl) Y Rio Maipo,1936-05-06,1939-01-31,976,-
+5710002,DGA,dga_web,Rio Maipo En El Canelo,0,-33.5747,-70.4397,57,Rio Maipo,571,Rio Maipo Medio (Despues Colorado Antes Mapocho),1914-09-03,1931-08-31,1890,-
+5703006,DGA,dga_web,Estero Glaciar Echaurren,3000,-33.5847,-70.1161,57,Rio Maipo,570,Rio Maipo Alto (Hasta Despues Junta Rio Colorado),1976-01-26,2004-04-02,3492,-
+5707002,DGA,dga_web,Rio Colorado Antes Junta Rio Maipo,890,-33.5875,-70.3669,57,Rio Maipo,570,Rio Maipo Alto (Hasta Despues Junta Rio Colorado),1940-07-25,2018-03-09,25235,2011-01-01
+5710001,DGA,dga_web,Rio Maipo En El Manzano,850,-33.5939,-70.3792,57,Rio Maipo,571,Rio Maipo Medio,1946-11-12,2018-03-09,23788,2007-10-08
+5703001,DGA,dga_web,Rio Yeso En Piuquenes,2550,-33.6258,-69.9225,57,Rio Maipo,570,Rio Maipo Alto (Hasta Despues Junta Rio Colorado),1969-05-19,1971-12-26,575,-
+5746001,DGA,dga_web,Estero Puangue En Ruta 78,93,-33.6614,-71.3372,57,Rio Maipo,574,Rio Maipo Bajo (Entre Rio Mapocho Y Desembocadura),1986-10-26,2018-03-09,11196,2013-08-21
+5703002,DGA,dga_web,Rio Yeso En Embalse El Yeso,2475,-33.6667,-70.0833,57,Rio Maipo,570,Rio Maipo Alto (Hasta Despues Junta Rio Colorado),1945-10-12,1978-07-10,5718,-
+5737005,DGA,dga_web,Rio Mapocho En El Monte,0,-33.6778,-70.9725,57,Rio Maipo,573,Rio Mapocho Bajo (Entre E De Las Rosas Y R Maipo),1947-06-10,1952-09-30,1193,-
+5740001,DGA,dga_web,Rio Maipo En Chignigue (Juncal),200,-33.6969,-71.0969,57,Rio Maipo,574,Rio Maipo Bajo (Entre Rio Mapocho Y Desembocadura),1976-12-16,1977-07-21,103,-
+5748001,DGA,dga_web,Rio Maipo En Cabimbao,35,-33.7219,-71.555,57,Rio Maipo,574,Rio Maipo Bajo (Entre Rio Mapocho Y Desembocadura),1939-04-19,2018-03-09,14889,2012-01-01
+5717005,DGA,dga_web,Rio Maipo En Naltahua,300,-33.7256,-70.9161,57,Rio Maipo,571,Rio Maipo Medio (Despues Colorado Antes Mapocho),1948-07-05,1960-01-17,3665,-
+5704002,DGA,dga_web,Rio Maipo En San Alfonso,1092,-33.7347,-70.3008,57,Rio Maipo,570,Rio Maipo Alto,1942-03-01,2017-02-25,23977,2012-01-01
+5740002,DGA,dga_web,Canal Maipo En Chocalan,0,-33.75,-71.25,57,Rio Maipo,574,Rio Maipo Bajo (Entre Rio Mapocho Y Desembocadura),1929-04-10,1930-06-30,447,-
+5703004,DGA,dga_web,Rio Yeso En Manzanito,0,-33.7525,-70.1611,57,Rio Maipo,570,Rio Maipo Alto (Hasta Despues Junta Rio Colorado),1943-12-01,1951-06-28,2760,-
+5704001,DGA,dga_web,Rio Maipo En El Ingenio,0,-33.7667,-70.2667,57,Rio Maipo,570,Rio Maipo Alto (Hasta Despues Junta Rio Colorado),1913-11-01,1940-06-30,9344,-
+5717003,DGA,dga_web,Rio Maipo En El Rosario,345,-33.7667,-70.9167,57,Rio Maipo,571,Rio Maipo Medio (Despues Colorado Antes Mapocho),1963-04-10,1972-07-31,2540,-
+5703003,DGA,dga_web,Rio Yeso Antes Junta Rio Maipo,1250,-33.7864,-70.2117,57,Rio Maipo,570,Rio Maipo Alto (Hasta Despues Junta Rio Colorado),1913-11-01,1958-08-31,11788,-
+5717002,DGA,dga_web,Rio Maipo En Isla De Maipo,0,-33.8,-70.9167,57,Rio Maipo,571,Rio Maipo Medio (Despues Colorado Antes Mapocho),1929-11-04,1930-08-29,286,-
+5702001,DGA,dga_web,Rio Volcan En Queltehues,1365,-33.8056,-70.2089,57,Rio Maipo,570,Rio Maipo Alto,1914-10-26,2018-03-09,29614,2017-06-01
+5716001,DGA,dga_web,Rio Angostura En Valdivia De Paine,342,-33.8111,-70.8836,57,Rio Maipo,571,Rio Maipo Medio,1981-06-16,2017-07-31,13115,-
+5715001,DGA,dga_web,Rio Paine En Longitudinal,375,-33.8333,-70.75,57,Rio Maipo,571,Rio Maipo Medio (Despues Colorado Antes Mapocho),1962-12-04,1983-12-07,6602,-
+5701002,DGA,dga_web,Rio Maipo En Las Melosas,1527,-33.8481,-70.1961,57,Rio Maipo,570,Rio Maipo Alto (Hasta Despues Junta Rio Colorado),1962-01-25,2015-10-31,9000,-
+5716003,DGA,dga_web,Estero Pintue En Puente Pintue,0,-33.8736,-70.8781,57,Rio Maipo,571,Rio Maipo Medio (Despues Colorado Antes Mapocho),2003-04-09,2010-11-30,2519,-
+5705002,DGA,dga_web,Canal Queltehue,3080,-33.8783,-70.1978,57,Rio Maipo,570,Rio Maipo Alto (Hasta Despues Junta Rio Colorado),2013-11-08,2018-03-09,1438,2017-08-01
+5713001,DGA,dga_web,Rio Angostura En Angostura,450,-33.9,-70.7333,57,Rio Maipo,571,Rio Maipo Medio (Despues Colorado Antes Mapocho),1918-09-01,1972-02-22,7515,-
+6056001,DGA,dga_web,Rio Rapel En Rapel,7,-33.9369,-71.75,60,Rio Rapel,605,Rio Rapel,1939-11-03,1966-08-30,9133,-
+5701001,DGA,dga_web,Rio Maipo En Las Hualtatas,1820,-33.9781,-70.1456,57,Rio Maipo,570,Rio Maipo Alto (Hasta Despues Junta Rio Colorado),1979-02-27,2013-01-08,11272,-
+6043001,DGA,dga_web,Estero Alhue En Quilamuta,130,-34.0617,-71.2422,60,Rio Rapel,604,Estero Alhue,1970-05-11,2017-02-12,14683,-
+6011001,DGA,dga_web,Estero De La Cadena Antes Junta Rio Cachapoal,440,-34.1842,-70.8436,60,Rio Rapel,600,Rio Cachapoal Bajo (Bajo Jta Rio Claro Y E Rapel),1983-05-10,2018-03-09,11355,2017-06-01
+6008003,DGA,dga_web,Rio Coya En Coya,0,-34.2167,-70.5333,60,Rio Rapel,600,Rio Cachapoal Alto (Hasta Bajo Junta Rio Claro),1920-11-04,1928-11-30,2946,-
+6008002,DGA,dga_web,Rio Cachapoal En Coya,0,-34.2167,-70.5333,60,Rio Rapel,600,Rio Cachapoal Alto (Hasta Bajo Junta Rio Claro),1914-11-27,1949-03-31,9990,-
+6008001,DGA,dga_web,Rio Cachapoal En Chicayas,0,-34.2333,-70.5667,60,Rio Rapel,600,Rio Cachapoal Alto (Hasta Bajo Junta Rio Claro),1914-12-01,1931-08-31,5167,-
+6008009,DGA,dga_web,Canal Sauzal En Puente Termas,750,-34.2403,-70.5506,60,Rio Rapel,600,Rio Cachapoal Alto (Hasta Bajo Junta Rio Claro),2005-07-29,2018-03-09,3841,2011-01-01
+6006001,DGA,dga_web,Rio Pangal En Pangal,1500,-34.2467,-70.3281,60,Rio Rapel,600,Rio Cachapoal Alto (Hasta Bajo Junta Rio Claro),1985-11-08,2018-03-09,10515,2001-01-01
+6008005,DGA,dga_web,Rio Cachapoal En Pte Termas De Cauquenes,700,-34.25,-70.5667,60,Rio Rapel,600,Rio Cachapoal Alto (Hasta Bajo Junta Rio Claro),2000-01-01,2018-03-09,5320,2000-01-01
+6009001,DGA,dga_web,Rio Claro En Campamento,664,-34.2667,-70.5833,60,Rio Rapel,600,Rio Cachapoal Alto (Hasta Bajo Junta Rio Claro),1986-02-01,1986-05-31,120,-
+6019003,DGA,dga_web,Rio Cachapoal En Puente Arqueado (Ca),115,-34.2731,-71.3717,60,Rio Rapel,601,Cachapoal Bajo,2000-01-01,2018-03-09,5144,2000-01-01
+6003001,DGA,dga_web,Rio Cachapoal 5 Km. Aguas Abajo Junta Cortaderal,1127,-34.3464,-70.3764,60,Rio Rapel,600,Rio Cachapoal Alto (Hasta Bajo Junta Rio Claro),1989-06-27,2018-03-09,8421,2011-01-01
+6000003,DGA,dga_web,Rio Las Leas Ante Junta Rio Cachapoal,1296,-34.3628,-70.3056,60,Rio Rapel,600,Rio Cachapoal Alto (Hasta Bajo Junta Rio Claro),2006-11-26,2018-03-09,3699,2015-06-26
+6002001,DGA,dga_web,Rio Cortaderal Ante Junta Rio Cachapoal,1200,-34.3669,-70.3258,60,Rio Rapel,600,Rio Cachapoal Alto (Hasta Bajo Junta Rio Claro),1985-09-06,2018-03-09,5575,2006-01-01
+6015001,DGA,dga_web,Rio Claro En Tunca,480,-34.3822,-71.0997,60,Rio Rapel,600,Rio Cachapoal Bajo (Bajo Jta Rio Claro Y E Rapel),1994-04-28,2016-10-31,5969,-
+6013002,DGA,dga_web,Canal Tipaume En Puente (Suc Celis),0,-34.3833,-70.7833,60,Rio Rapel,600,Rio Cachapoal Bajo (Bajo Jta Rio Claro Y E Rapel),1933-10-10,1944-04-30,2391,-
+6018004,DGA,dga_web,Rio Cachapoal En Peumo (Brazo # 3),0,-34.4167,-70.5667,60,Rio Rapel,600,Rio Cachapoal Bajo (Bajo Jta Rio Claro Y E Rapel),1916-04-19,1920-04-30,1360,-
+6018003,DGA,dga_web,Rio Cachapoal En Peumo (Brazo # 2),0,-34.4167,-71.1333,60,Rio Rapel,600,Rio Cachapoal Bajo (Bajo Jta Rio Claro Y E Rapel),1916-04-19,1921-08-27,1937,-
+6018002,DGA,dga_web,Rio Cachapoal En Peumo (Brazo # 1),0,-34.4167,-71.1333,60,Rio Rapel,600,Rio Cachapoal Bajo (Bajo Jta Rio Claro Y E Rapel),1916-04-19,1921-12-31,2071,-
+6000001,DGA,dga_web,Rio Las Legnas Cota 2150,0,-34.4178,-70.1753,60,Rio Rapel,600,Rio Cachapoal Alto (Hasta Bajo Junta Rio Claro),1987-04-04,1989-05-21,701,-
+6018001,DGA,dga_web,Estero Zamorano En Puente El Niche,900,-34.4311,-71.1681,60,Rio Rapel,600,Rio Cachapoal Bajo (Bajo Jta Rio Claro Y E Rapel),1985-10-16,2017-06-30,9833,-
+6013001,DGA,dga_web,Rio Claro En Hacienda Las Nieves,720,-34.4922,-70.7028,60,Rio Rapel,601,Cachapoal Bajo,1920-12-01,2018-03-09,21450,2012-03-01
+6035001,DGA,dga_web,Rio Tinguiririca En Los Olmos (Ca),223,-34.4922,-71.3731,60,Rio Rapel,603,Rio Tinguiririca Bajo (Entre Rio Rapel Y E Rapel),2000-01-01,2018-03-09,5298,2000-01-01
+6132001,DGA,dga_web,Estero Nilahue En Santa Teresa,50,-34.57,-71.7908,61,Costeras Rapel-E. Nilahue,613,Estero Nilahue,1985-07-02,2017-06-30,9522,-
+6034001,DGA,dga_web,Estero Chimbarongo En Santa Cruz,225,-34.6267,-71.3514,60,Rio Rapel,603,Rio Tinguiririca Bajo (Entre Rio Rapel Y E Rapel),1945-04-07,1980-12-18,12343,-
+6034023,DGA,dga_web,Estero Chimbarongo En Puente El Huape,184,-34.6581,-71.3019,60,Rio Rapel,603,Rio Tinguiririca Bajo (Entre Rio Rapel Y E Rapel),2009-04-05,2018-03-09,2405,2014-01-01
+6027001,DGA,dga_web,Rio Claro En El Valle,476,-34.6867,-70.8739,60,Rio Rapel,602,Rio Tinguiririca Alto (Hasta Bajo Junta Rio Claro),1970-05-01,2018-03-09,16057,2006-11-25
+6028001,DGA,dga_web,Rio Tinguiririca Bajo Los Briones,560,-34.7186,-70.8267,60,Rio Rapel,602,Rio Tinguiririca Alto (Hasta Bajo Junta Rio Claro),1921-11-01,2018-03-09,26634,2000-07-01
+6027002,DGA,dga_web,Rio Claro En Puente Negro,0,-34.75,-70.75,60,Rio Rapel,602,Rio Tinguiririca Alto (Hasta Bajo Junta Rio Claro),1917-10-01,1932-07-25,4688,-
+6034022,DGA,dga_web,Estero Chimbarongo Bajo Embalse Convento Viejo,245,-34.7647,-71.1372,60,Rio Rapel,603,Rio Tinguiririca Bajo (Entre Rio Rapel Y E Rapel),2008-04-05,2018-03-09,3467,2008-04-05
+6033001,DGA,dga_web,Estero Chimbarongo En Convento Viejo,245,-34.7689,-71.1175,60,Rio Rapel,603,Rio Tinguiririca Bajo (Entre Rio Rapel Y E Rapel),1968-10-31,1993-12-10,8362,-
+6033011,DGA,dga_web,Estero Chimbarongo En Ruta 5,275,-34.7889,-71.0458,60,Rio Rapel,603,Rio Tinguiririca Bajo (Entre Rio Rapel Y E Rapel),2009-07-02,2018-03-09,2670,2014-01-01
+6033009,DGA,dga_web,Canal Teno En Km. 13.465,285,-34.8142,-71.0997,60,Rio Rapel,603,Rio Tinguiririca Bajo (Entre Rio Rapel Y E Rapel),2002-10-30,2018-03-09,4316,2012-04-01
+6025001,DGA,dga_web,Rio Tinguiririca Aguas Abajo Junta Rio Azufre,1024,-34.8164,-70.5642,60,Rio Rapel,602,Rio Tinguiririca Alto (Hasta Bajo Junta Rio Claro),1970-05-08,1993-04-22,5519,-
+7106001,DGA,dga_web,Canal Teno Chimbarongo Km. 1.301,290,-34.8833,-71.15,71,Rio Mataquito,710,Rio Teno,1984-12-26,1985-02-07,44,-
+7104001,DGA,dga_web,Estero El Manzano Antes Junta Rio Teno,690,-34.9653,-70.9419,71,Rio Mataquito,710,Rio Teno,1959-08-01,1984-10-30,8408,-
+7120001,DGA,dga_web,Rio Mataquito En El Morrillo,4,-34.9764,-71.3822,71,Rio Mataquito,712,Rio Mataquito,1916-11-24,1950-12-31,7377,-
+7119001,DGA,dga_web,Rio Lontue Antes De Junta,0,-34.9797,-71.3617,71,Rio Mataquito,711,Rio Lontue,1918-01-01,1931-06-30,4498,-
+7119002,DGA,dga_web,Rio Lontue En Lontue Lo Valdivia,0,-34.9817,-71.3292,71,Rio Mataquito,711,Rio Lontue,1916-12-01,1919-04-24,733,-
+7123001,DGA,dga_web,Rio Mataquito En Licanten,20,-34.9844,-72.01,71,Rio Mataquito,712,Rio Mataquito,1987-01-20,2018-03-09,11174,2007-11-01
+7102001,DGA,dga_web,Rio Teno En Los QueÑEs,900,-34.9931,-70.8097,71,Rio Mataquito,710,Rio Teno,1938-04-01,1985-01-31,16737,-
+7104002,DGA,dga_web,Rio Teno Despues De Junta Con Claro,647,-34.9961,-70.8206,71,Rio Mataquito,710,Rio Teno,1947-09-29,2018-03-09,21859,1999-10-22
+7103001,DGA,dga_web,Rio Claro En Los QueÑEs,900,-34.9983,-70.8094,71,Rio Mataquito,710,Rio Teno,1929-05-01,2017-06-30,31614,-
+7117001,DGA,dga_web,Rio Lontue En Longitudinal,0,-35.0233,-71.2475,71,Rio Mataquito,711,Rio Lontue,1951-11-05,1953-05-31,466,-
+7102005,DGA,dga_web,Rio Teno Bajo Quebrada Infiernillo,990,-35.045,-70.6353,71,Rio Mataquito,710,Rio Teno,1985-01-14,2017-02-21,8414,-
+7100001,DGA,dga_web,Quebrada Malo En Puente Viejo,1500,-35.1333,-70.5289,71,Rio Mataquito,710,Rio Teno,1947-12-11,1950-04-27,663,-
+7116001,DGA,dga_web,Estero Upeo En Upeo,450,-35.1731,-71.0911,71,Rio Mataquito,711,Rio Lontue,1963-02-15,2017-06-30,17984,-
+7372001,DGA,dga_web,Rio Claro En Camarico,220,-35.1783,-71.3847,43,Rio Maule,431,Rio Claro,1936-03-01,2017-03-30,23490,-
+7200002,DGA,dga_web,Rio Huenchullami En Coipue,0,-35.2347,-72.1194,72,Costeras Mataquito-Maule,720,Rio Huenchullami,2013-07-01,2017-02-28,947,-
+7115001,DGA,dga_web,Rio Palos En Junta Con Colorado,600,-35.2744,-71.0156,71,Rio Mataquito,711,Rio Lontue,1947-05-01,2018-03-09,18048,2000-08-07
+7112001,DGA,dga_web,Rio Colorado En Junta Con Palos,600,-35.2783,-71.0028,71,Rio Mataquito,711,Rio Lontue,1917-11-11,2017-06-30,21702,2011-01-01
+7372002,DGA,dga_web,Rio Claro En Puente Cimbra,0,-35.2833,-71.55,43,Rio Maule,431,Rio Claro,1915-10-06,1931-09-20,2345,-
+7382001,DGA,dga_web,Rio Maule En Cuesta Culenar,200,-35.35,-72.0333,43,Rio Maule,431,Rio Maule Bajo (Entre Rio Claro Y Desembocadura),1915-10-01,1934-05-31,6567,-
+7381001,DGA,dga_web,Estero Los Puercos En Puente Los Puercos,113,-35.3736,-71.8292,43,Rio Maule,431,Rio Maule Bajo (Entre Rio Claro Y Desembocadura),1986-02-20,2017-06-30,10936,-
+7383001,DGA,dga_web,Rio Maule En Forel,30,-35.4069,-72.2083,73,Rio Maule,738,Rio Maule Bajo,1985-01-02,2018-03-09,11247,2000-07-02
+7379001,DGA,dga_web,Rio Claro En Talca,150,-35.4167,-71.6811,43,Rio Maule,431,Rio Claro,1958-11-26,1996-11-09,13668,-
+7379002,DGA,dga_web,Rio Claro En Rauquen,64,-35.4525,-71.7333,73,Rio Maule,737,Rio Claro,1999-02-16,2018-03-09,6811,2007-07-06
+7374001,DGA,dga_web,Rio Lircay En Puente Las Rastras,240,-35.4856,-71.2933,43,Rio Maule,431,Rio Claro,1961-12-18,2017-06-30,17973,-
+7374003,DGA,dga_web,Canal Maule Norte Bajo Seccion 2,250,-35.5286,-71.265,43,Rio Maule,431,Rio Claro,1996-10-21,2015-12-31,6143,-
+7341001,DGA,dga_web,Rio Purapel En Nirivilo,80,-35.55,-72.1,73,Rio Maule,734,Rio Perquilauquen Bajo (Bajo Cauquenes Y Longavi),1957-03-31,2016-04-30,18049,-
+7322001,DGA,dga_web,Rio Maule En Longitudinal,90,-35.5575,-71.7067,73,Rio Maule,736,Rio Maule Medio (Entre Rio Claro Y Rio Loncomilla),1962-08-02,2018-03-09,18006,2006-12-25
+7374002,DGA,dga_web,Canal Maule Norte Bajo Seccion 1,400,-35.5639,-71.2833,43,Rio Maule,431,Rio Claro,1996-10-17,2015-06-10,5495,-
+7361001,DGA,dga_web,Rio Maule En Loncomilla,0,-35.5661,-71.7531,73,Rio Maule,736,Rio Maule Entre Rio Loncomilla Y Rio Claro,1928-12-01,1931-01-31,790,-
+7400001,DGA,dga_web,Rio Loanco En Desembocadura,20,-35.5689,-72.5833,74,Costeras Maule-Limite Octava R.,740,Costeras Entre Quebrada Honda Y Rio Reloca,1987-07-03,2010-09-30,7535,-
+7322007,DGA,dga_web,Canal San Clemente,0,-35.5822,-71.5306,73,Rio Maule,736,Rio Maule Medio (Entre Rio Claro Y Rio Loncomilla),2003-01-01,2017-06-30,4658,2003-01-01
+7359003,DGA,dga_web,Rio Loncomilla En San Javier,0,-35.5825,-71.7578,73,Rio Maule,735,Rio Loncomilla,1948-06-10,1952-12-31,1503,-
+7322008,DGA,dga_web,Canal Duao Zapata,0,-35.5892,-71.5358,73,Rio Maule,736,Rio Maule Medio (Entre Rio Claro Y Rio Loncomilla),2003-01-01,2018-03-05,4884,2003-01-01
+7378013,DGA,dga_web,Quebrada Colorado Bajo Sistema Maitenes,0,-35.6142,-71.3186,43,Rio Maule,431,Rio Claro,2003-01-01,2018-03-09,4933,2003-01-01
+7322006,DGA,dga_web,Canal De Restitucion Sur 3,0,-35.6169,-71.5392,73,Rio Maule,736,Rio Maule Medio (Entre Rio Claro Y Rio Loncomilla),2003-01-01,2018-03-09,4584,2003-01-01
+7359001,DGA,dga_web,Rio Loncomilla En Las Brisas,68,-35.6169,-71.7678,73,Rio Maule,735,Rio Loncomilla,1975-05-22,2018-03-09,14849,2001-08-30
+7322005,DGA,dga_web,Canal De Restitucion Sur 2,0,-35.6175,-71.5389,73,Rio Maule,736,Rio Maule Medio (Entre Rio Claro Y Rio Loncomilla),2003-01-01,2018-03-09,4509,2003-01-01
+7378011,DGA,dga_web,Canal Maule Norte Bajo En Puente Centinela,470,-35.6358,-71.2694,43,Rio Maule,431,Rio Claro,2000-10-17,2018-03-09,5755,2004-07-29
+7322002,DGA,dga_web,Canal Maule Sur En Aforador,315,-35.6389,-71.3839,73,Rio Maule,736,Rio Maule Medio (Entre Rio Claro Y Rio Loncomilla),1971-11-05,2018-02-28,12329,2004-01-01
+7378012,DGA,dga_web,Quebrada Colorado En DesagÜE Laguna Los Temos,0,-35.6475,-71.2797,43,Rio Maule,431,Rio Claro,2003-01-01,2018-03-09,4648,2003-01-01
+7322004,DGA,dga_web,Rio Maule En Colbun,400,-35.6647,-71.3492,73,Rio Maule,736,Rio Maule Medio (Entre Rio Claro Y Rio Loncomilla),1954-01-02,1981-12-31,6368,-
+7322003,DGA,dga_web,Canal Maule Sur En Los Lirios,320,-35.6667,-71.3333,73,Rio Maule,736,Rio Maule Medio (Entre Rio Claro Y Rio Loncomilla),1982-08-01,1984-07-31,438,-
+7342001,DGA,dga_web,Rio Purapel En Purapel,140,-35.6833,-72.0333,73,Rio Maule,734,Rio Perquilauquen Bajo (Bajo Cauquenes Y Longavi),1951-09-04,1953-05-26,613,-
+7320003,DGA,dga_web,Rio Claro En San Carlos,550,-35.6989,-71.0683,73,Rio Maule,736,Rio Maule Medio (Entre Rio Claro Y Rio Loncomilla),2000-01-01,2018-03-09,5574,2000-01-01
+7321004,DGA,dga_web,Canal Maule En Bocatoma,0,-35.7,-71.1,73,Rio Maule,736,Rio Maule Medio (Entre Rio Claro Y Rio Loncomilla),1928-11-05,1944-02-29,2947,-
+7321003,DGA,dga_web,Canal Maule Norte En Aforador,461,-35.7039,-71.1161,73,Rio Maule,736,Rio Maule Medio (Entre Rio Claro Y Rio Loncomilla),1967-01-18,2018-03-09,9387,2000-01-01
+7321002,DGA,dga_web,Rio Maule En Armerillo,470,-35.7061,-71.1139,73,Rio Maule,732,Rio Maule Medio,1947-09-01,2018-03-09,17489,2000-01-01
+7321007,DGA,dga_web,Canal Maule Norte Alto En Paso Nevado,0,-35.7147,-71.1806,73,Rio Maule,736,Rio Maule Medio (Entre Rio Claro Y Rio Loncomilla),2003-01-01,2018-03-09,4698,2003-01-01
+7321005,DGA,dga_web,Canal De Evacuacion C. Pehuenche,0,-35.7275,-71.1667,73,Rio Maule,736,Rio Maule Medio (Entre Rio Claro Y Rio Loncomilla),2002-09-05,2018-03-09,5566,2006-07-01
+7306001,DGA,dga_web,Rio Cipreses En Dasague Laguna La Invernada,1300,-35.7381,-70.7778,73,Rio Maule,730,Rio Maule Alto (Hasta Antes Junta Rio Melado),2002-10-31,2018-03-09,4673,2015-01-01
+7358010,DGA,dga_web,Canal De Restitucion Sur 1,0,-35.7428,-71.4217,73,Rio Maule,735,Rio Loncomilla,2005-02-28,2018-01-01,3325,2005-11-01
+7343001,DGA,dga_web,Rio Purapel En Sauzal,80,-35.75,-72.0667,73,Rio Maule,734,Rio Perquilauquen Bajo (Bajo Cauquenes Y Longavi),1981-06-02,2016-07-27,11509,-
+7308001,DGA,dga_web,Estero Las Garzas,600,-35.7525,-71.0025,73,Rio Maule,730,Rio Maule Alto (Hasta Antes Junta Rio Melado),2002-09-13,2018-03-09,5603,2006-07-01
+7317003,DGA,dga_web,Rio Melado En Zona De Presa,525,-35.7544,-71.0864,73,Rio Maule,731,Rio Melado,2002-12-20,2018-03-09,5559,2015-06-11
+7357001,DGA,dga_web,Rio Loncomilla En En Emboque,160,-35.7667,-71.6833,73,Rio Maule,735,Rio Loncomilla,1963-05-23,1973-01-16,2465,-
+7358001,DGA,dga_web,Rio Putagan En Yerbas Buenas,150,-35.7719,-71.585,73,Rio Maule,735,Rio Loncomilla,1946-04-14,2016-01-31,22857,-
+7308002,DGA,dga_web,Rio Maule Bajo Boca Toma Maule Central Pehuenche,0,-35.7728,-71.0019,73,Rio Maule,730,Rio Maule Alto (Hasta Antes Junta Rio Melado),2002-08-29,2018-03-09,5241,2002-08-29
+7358002,DGA,dga_web,Rio Putagan En Putagan,0,-35.7814,-71.6622,73,Rio Maule,735,Rio Loncomilla,1916-05-01,1922-02-28,2025,-
+7358003,DGA,dga_web,Rio Putagan En Santa Rosa,125,-35.7833,-71.6167,73,Rio Maule,735,Rio Loncomilla,1946-11-01,1949-05-31,942,-
+7308000,DGA,dga_web,Canal Ad. Maule C. Pehuenche,690,-35.7961,-70.9953,73,Rio Maule,730,Rio Maule Alto (Hasta Antes Junta Rio Melado),2002-09-26,2018-03-09,5564,2006-07-01
+7357002,DGA,dga_web,Rio Loncomilla En Bodega,110,-35.8167,-71.8333,73,Rio Maule,735,Rio Loncomilla,1967-05-05,2017-06-30,15949,-
+7303000,DGA,dga_web,Rio Maule En Los BaÑOs,980,-35.8197,-70.7606,73,Rio Maule,730,Rio Maule Alto (Hasta Antes Junta Rio Melado),2002-10-30,2018-03-09,5024,2017-01-01
+7317002,DGA,dga_web,Canal Melado En Los Hierros,800,-35.85,-71.0667,73,Rio Maule,731,Rio Melado,2002-09-06,2018-03-09,5247,2006-07-01
+7317001,DGA,dga_web,Rio Melado En La Lancha Dga,650,-35.85,-71.0667,73,Rio Maule,731,Rio Melado,1916-03-01,2003-04-15,7909,-
+7356001,DGA,dga_web,Rio Achibueno En San Francisco,127,-35.85,-71.6667,73,Rio Maule,735,Rio Loncomilla,1975-07-22,1980-07-01,1622,-
+7355008,DGA,dga_web,Canal Robleria Ante Bocatoma Ancoa,565,-35.8544,-71.2375,73,Rio Maule,735,Rio Loncomilla,2000-04-26,2015-12-31,4404,-
+7355003,DGA,dga_web,Rio Ancoa Antes Tunel Canal Melado,800,-35.8667,-71.1169,73,Rio Maule,735,Rio Loncomilla,1961-11-30,1995-04-16,6672,-
+7340001,DGA,dga_web,Estero Cardo Verde En Lo Ubaldo,126,-35.8833,-72.0167,73,Rio Maule,734,Rio Perquilauquen Bajo (Bajo Cauquenes Y Longavi),1968-08-19,1984-12-31,3776,-
+7317005,DGA,dga_web,Rio Melado En El Salto,730,-35.8842,-71.0192,73,Rio Maule,731,Rio Melado,2003-01-01,2018-03-09,5375,2003-01-01
+7355001,DGA,dga_web,Rio Ancoa En El Llepo,205,-35.9,-71.5167,73,Rio Maule,735,Rio Loncomilla,1962-12-16,1983-09-14,4515,-
+7339001,DGA,dga_web,Rio Cauquenes En Desembocadura,125,-35.9,-72.05,73,Rio Maule,733,Rio Perquilauquen Alto (Bajo Junta Rio Cauquenes),1986-04-16,2017-06-30,10739,-
+7355004,DGA,dga_web,Rio Ancoa En Las Minas,0,-35.9069,-71.32,73,Rio Maule,735,Rio Loncomilla,1916-05-01,1939-05-16,3345,-
+7355002,DGA,dga_web,Rio Ancoa En El Morro,402,-35.9086,-71.2981,73,Rio Maule,735,Rio Loncomilla,1952-06-12,2018-03-09,20797,2012-03-01
+7355005,DGA,dga_web,Rio Ancoa En Las Vegas,300,-35.9131,-71.4025,73,Rio Maule,735,Rio Loncomilla,1947-03-18,1952-07-31,1768,-
+7337001,DGA,dga_web,Rio Tutuven En El Roble,130,-35.9333,-72.3333,73,Rio Maule,733,Rio Perquilauquen Alto (Bajo Junta Rio Cauquenes),1945-03-05,1949-01-31,1429,-
+7354001,DGA,dga_web,Rio Achibueno En Los Pegnascos,590,-35.9636,-71.4881,73,Rio Maule,735,Rio Loncomilla,1947-03-22,1986-09-30,12580,-
+7335002,DGA,dga_web,Estero Curipeumo En Lo Hernandez,0,-35.9667,-72.0167,73,Rio Maule,733,Rio Perquilauquen Alto (Bajo Junta Rio Cauquenes),1968-01-12,2017-06-30,16570,-
+7335003,DGA,dga_web,Rio Perquilauquen En Santa Ema,120,-35.9833,-72.0667,73,Rio Maule,733,Rio Perquilauquen Alto (Bajo Junta Rio Cauquenes),1968-07-02,1984-12-31,3264,-
+7351001,DGA,dga_web,Rio Longavi En Longitudinal,135,-36.0,-71.7228,73,Rio Maule,735,Rio Loncomilla,1963-07-30,1984-08-03,6648,-
+7354002,DGA,dga_web,Rio Achibueno En La Recova,0,-36.0028,-71.4419,73,Rio Maule,735,Rio Loncomilla,1986-11-01,2018-03-09,11069,2012-03-01
+7300001,DGA,dga_web,Rio Maule En Desague Laguna Del Maule,0,-36.0114,-70.5547,73,Rio Maule,730,Rio Maule Alto (Hasta Antes Junta Rio Melado),2004-01-29,2018-03-09,4391,2014-12-12
+7336001,DGA,dga_web,Rio Cauquenes En El Arrayan,590,-36.0167,-72.3833,73,Rio Maule,733,Rio Perquilauquen Alto (Bajo Junta Rio Cauquenes),1945-03-14,2017-06-30,22605,-
+7335001,DGA,dga_web,Rio Perquilauquen En Quella,120,-36.05,-72.0833,73,Rio Maule,733,Rio Perquilauquen Alto (Bajo Junta Rio Cauquenes),1963-02-20,2017-02-28,18597,-
+7351002,DGA,dga_web,Canal Primera Abajo,0,-36.0572,-71.6972,73,Rio Maule,735,Rio Loncomilla,2011-01-01,2018-03-09,1834,2011-01-01
+7352004,DGA,dga_web,Canal Maitenes En Bocatoma,0,-36.0733,-71.6972,73,Rio Maule,735,Rio Loncomilla,2011-01-01,2016-12-02,1620,2011-01-01
+7314001,DGA,dga_web,Rio Huaiquivilo En Huaiquivilo,1200,-36.1667,-70.9333,73,Rio Maule,731,Rio Melado,1962-05-10,1976-11-17,3412,-
+7350005,DGA,dga_web,Rio Longavi Antes Junta Bullileo,0,-36.23,-71.4442,73,Rio Maule,735,Rio Loncomilla,1929-07-22,1937-03-31,2432,-
+7350001,DGA,dga_web,Rio Longavi En La Quiriquina,449,-36.2303,-71.4569,73,Rio Maule,735,Rio Loncomilla,1937-04-20,2018-03-09,25739,2006-01-18
+7332001,DGA,dga_web,Rio Perquilauquen En Gniquen,140,-36.2333,-72.0,73,Rio Maule,733,Rio Perquilauquen Alto (Bajo Junta Rio Cauquenes),1967-03-10,2017-03-31,16599,-
+7331004,DGA,dga_web,Canal Alimentador Digua,0,-36.2361,-71.5325,73,Rio Maule,733,Rio Perquilauquen Alto (Bajo Junta Rio Cauquenes),2011-01-01,2018-03-09,2313,2011-01-01
+7331001,DGA,dga_web,Rio Cato En Digua,300,-36.2478,-71.5642,73,Rio Maule,733,Rio Perquilauquen Alto (Bajo Junta Rio Cauquenes),1947-10-12,1985-01-08,9784,-
+7350003,DGA,dga_web,Rio Longavi En El Castillo,598,-36.2558,-71.3375,73,Rio Maule,735,Rio Loncomilla,1964-05-21,2017-06-15,16410,-
+7350002,DGA,dga_web,Rio Bullileo En Santa Filomena,370,-36.2567,-71.4189,73,Rio Maule,735,Rio Loncomilla,1926-12-17,2018-01-01,21198,2011-01-01
+7350004,DGA,dga_web,Rio Bullileo En Portal Tunel,400,-36.2808,-71.4114,73,Rio Maule,735,Rio Loncomilla,1940-08-03,1945-01-31,1639,-
+7330001,DGA,dga_web,Rio Perquilauquen En San Manuel,266,-36.3758,-71.6233,73,Rio Maule,733,Perquilauquen Alto,1930-09-02,2018-03-09,27100,2016-08-23
+8144001,DGA,dga_web,Rio Lonquen En Trehuaco,0,-36.425,-72.6669,47,Rio Itata,473,Rio Itata Bajo (Entre Rio Nuble Y Desembocadura),1985-10-08,2014-11-12,6105,-
+8110001,DGA,dga_web,Rio Gnuble En Balsa De Los Sepulveda,0,-36.4667,-71.7833,81,Rio Itata,811,Rio Nuble Bajo (Bajo Junta E Pangue Y Rio Itata),1939-03-22,1944-04-30,1867,-
+8141001,DGA,dga_web,Rio Itata En Coelemu,27,-36.4669,-72.6911,81,Rio Itata,814,Itata Bajo,1985-08-06,2017-06-30,10991,2012-04-01
+8210001,DGA,dga_web,Rio Pingueral En Dichato,5,-36.5333,-72.9014,82,Costeras E Islas Entre Rio Itata Y Rio Bio-Bio,821,Costeras Entre Rio Pingueral Y Rio Andalien,1985-03-01,1989-03-31,1454,-
+8114001,DGA,dga_web,Rio Cato En Puente Cato,123,-36.55,-72.05,81,Rio Itata,811,Rio Nuble Bajo (Bajo Junta E Pangue Y Rio Itata),1956-09-12,2017-06-30,19474,-
+8115001,DGA,dga_web,Rio Gnuble En Longitudinal,107,-36.55,-72.1,81,Rio Itata,811,Rio Nuble Bajo (Bajo Junta E Pangue Y Rio Itata),1956-09-12,1982-07-18,6521,-
+8118001,DGA,dga_web,Rio Changaral Camino A Portezuelo,60,-36.55,-72.2833,81,Rio Itata,811,Rio Nuble Bajo (Bajo Junta E Pangue Y Rio Itata),1956-10-01,2004-07-31,13309,-
+8106001,DGA,dga_web,Rio ÑUble En San Fabian,410,-36.5703,-71.5547,81,Rio Itata,810,Rio Nuble Alto (Hasta Bajo Junta Estero Pangue),1946-05-01,1998-11-30,17940,-
+8106002,DGA,dga_web,Rio Uble En San Fabian N 2,450,-36.5856,-71.5256,81,Rio Itata,810,Nuble Alto,1999-03-03,2018-03-09,6811,2005-08-26
+8117009,DGA,dga_web,Canal De La Luz En Chillan,136,-36.5967,-72.1003,81,Rio Itata,811,Nuble Bajo,2008-02-02,2018-03-09,3639,2014-08-01
+8112003,DGA,dga_web,Canal Alim.Embalse Coihueco En Los Olivo,430,-36.6167,-71.7833,81,Rio Itata,811,Rio Nuble Bajo (Bajo Junta E Pangue Y Rio Itata),1971-08-27,1982-08-31,3103,-
+8117005,DGA,dga_web,Rio Chillan En Camino A Confluencia,40,-36.6167,-72.3167,81,Rio Itata,811,Rio Nuble Bajo (Bajo Junta E Pangue Y Rio Itata),1956-09-29,2017-06-30,15908,-
+8119001,DGA,dga_web,Rio Gnuble En Cucha Cox,29,-36.6167,-72.45,81,Rio Itata,811,Rio Nuble Bajo (Bajo Junta E Pangue Y Rio Itata),1965-06-28,1972-03-09,1432,-
+8140002,DGA,dga_web,Rio Itata En Paso Hondo,26,-36.6261,-72.4892,47,Rio Itata,473,Rio Itata Bajo (Entre Rio Nuble Y Desembocadura),2006-01-01,2018-03-09,4177,2006-01-01
+8117001,DGA,dga_web,Rio Chillan En Longitudinal,75,-36.6333,-72.2167,81,Rio Itata,811,Rio Nuble Bajo (Bajo Junta E Pangue Y Rio Itata),1958-02-14,1983-05-12,6036,-
+8119002,DGA,dga_web,Rio ÑUble En Confluencia,20,-36.6333,-72.45,81,Rio Itata,811,Rio Nuble Bajo (Bajo Junta E Pangue Y Rio Itata),1956-12-01,1983-01-31,1225,-
+8210003,DGA,dga_web,Estero Bellavista En Tom,7,-36.6394,-72.9503,82,Costeras E Islas Entre Rio Itata Y Rio Bio-Bio,821,Costeras Entre Rio Pingueral Y Rio Andalien,2009-05-01,2018-03-09,3027,2014-11-01
+8112002,DGA,dga_web,Canal Alimentador Embalse Coihueco En Bocatoma,433,-36.65,-71.7667,81,Rio Itata,811,Rio Nuble Bajo (Bajo Junta E Pangue Y Rio Itata),1971-09-10,2016-05-31,3310,-
+8135002,DGA,dga_web,Rio Itata En Balsa Nueva Aldea,29,-36.65,-72.45,81,Rio Itata,813,Rio Itata Medio (Entre Rio Renegado Y Rio Nuble),1956-09-12,2018-03-09,20611,2012-03-01
+8135001,DGA,dga_web,Rio Itata En Confluencia,0,-36.65,-72.45,81,Rio Itata,813,Rio Itata Medio (Entre Rio Renegado Y Rio Nuble),1924-02-01,1931-08-31,2560,-
+8112001,DGA,dga_web,Rio Niblinto Antes Canal Alimentador Emb. Coihueco,290,-36.6547,-71.7558,81,Rio Itata,811,Rio Nuble Bajo (Bajo Junta E Pangue Y Rio Itata),1971-02-02,2017-06-30,10374,-
+8105001,DGA,dga_web,Rio ÑUble En La Punilla,635,-36.6583,-71.3208,81,Rio Itata,810,Rio Nuble Alto (Hasta Bajo Junta Estero Pangue),1957-04-06,2017-06-30,19852,-
+8104001,DGA,dga_web,Rio Sauces Antes Junta Con ÑUble,620,-36.6653,-71.2739,81,Rio Itata,810,Rio Nuble Alto (Hasta Bajo Junta Estero Pangue),1966-10-31,2017-06-30,16326,-
+8117008,DGA,dga_web,Rio Quilmo En Camino A Yungay (Ca),75,-36.6667,-72.15,81,Rio Itata,811,Rio Nuble Bajo (Bajo Junta E Pangue Y Rio Itata),1957-07-19,1995-04-17,9591,-
+8134003,DGA,dga_web,Rio Larqui En Santa Cruz De Cuca,25,-36.7,-72.3833,81,Rio Itata,813,Rio Itata Medio (Entre Rio Renegado Y Rio Nuble),1985-01-16,2017-06-30,10823,-
+8134002,DGA,dga_web,Rio Larqui En Camino Yungay,110,-36.7333,-72.1333,81,Rio Itata,813,Rio Itata Medio (Entre Rio Renegado Y Rio Nuble),1985-10-01,2003-01-10,5946,-
+8117004,DGA,dga_web,Rio Chillan En Esperanza,435,-36.7867,-71.7486,81,Rio Itata,811,Rio Nuble Bajo (Bajo Junta E Pangue Y Rio Itata),1939-03-03,1994-09-03,19878,-
+8220009,DGA,dga_web,Rio Andalien En Puente Trinitarias,25,-36.7956,-72.9492,82,Costeras E Islas Entre Rio Itata Y Rio Bio-Bio,822,Rio Andalien,2010-01-01,2016-01-01,1523,2012-03-01
+8220010,DGA,dga_web,Rio Andalien Antes Ex Peaje Chaimavida,280,-36.7981,-72.9647,82,Costeras E Islas Entre Rio Itata Y Rio Bio-Bio,822,Rio Andalien,2015-01-01,2017-06-02,678,-
+8117006,DGA,dga_web,Rio Chillan En Esperanza N 2,586,-36.8,-71.6608,81,Rio Itata,811,Nuble Bajo,2003-11-27,2018-03-09,4702,2012-01-01
+8133002,DGA,dga_web,Rio Itata En Liucura,0,-36.8167,-72.4333,81,Rio Itata,813,Rio Itata Medio (Entre Rio Renegado Y Rio Nuble),1946-06-15,1949-11-30,1184,-
+8220001,DGA,dga_web,Rio Andalien Camino A Penco,7,-36.8167,-73.0333,82,Costeras E Islas Entre Rio Itata Y Rio Bio-Bio,822,Rio Andalien,1960-11-01,2018-03-09,18247,2012-03-01
+8220008,DGA,dga_web,Estero Nonguen Frente U. Del Bio Bio,20,-36.8203,-73.0164,82,Costeras E Islas Entre Rio Itata Y Rio Bio-Bio,822,Rio Andalien,2009-03-11,2018-03-09,2885,2016-02-17
+8131001,DGA,dga_web,Rio Diguillin En Balsa Zapallar,500,-36.8333,-71.7833,81,Rio Itata,813,Rio Itata Medio (Entre Rio Renegado Y Rio Nuble),1939-01-20,1947-05-31,3050,-
+8394001,DGA,dga_web,Rio Biobio En Desembocadura,16,-36.8386,-73.0619,83,Rio Bio-Bio,839,Rio Bio-Bio Bajo,1970-09-24,2018-02-17,14806,2007-04-05
+8133001,DGA,dga_web,Rio Itata En Cerro Negro,60,-36.85,-72.3833,81,Rio Itata,813,Rio Itata Medio (Entre Rio Renegado Y Rio Nuble),1956-09-14,1984-08-31,9816,-
+8130001,DGA,dga_web,Rio Renegado En Invernada,710,-36.8606,-71.6253,81,Rio Itata,813,Rio Itata Medio (Entre Rio Renegado Y Rio Nuble),1940-03-01,2017-06-30,24526,-
+8132001,DGA,dga_web,Rio Diguillin En Longitudinal,80,-36.8667,-72.3333,81,Rio Itata,813,Rio Itata Medio (Entre Rio Renegado Y Rio Nuble),1956-09-21,2017-06-30,17388,-
+8130002,DGA,dga_web,Rio Diguillin En San Lorenzo (Atacalco),727,-36.9244,-71.5756,81,Rio Itata,813,Itata Medio,1946-05-23,2018-03-09,25113,2014-11-01
+8124001,DGA,dga_web,Rio Itata En General Cruz,90,-36.9333,-72.35,81,Rio Itata,812,Rio Itata Alto (Hasta Rio Diguillin),1956-01-05,2017-06-30,18576,-
+8393002,DGA,dga_web,Estero Hualqui En Desembocadura,30,-36.9825,-72.9414,83,Rio Bio-Bio,839,Rio Bio-Bio Bajo,2009-05-21,2018-03-09,2137,2011-01-01
+8124002,DGA,dga_web,Rio Itata En Trilaleo,155,-37.0667,-72.1833,81,Rio Itata,812,Rio Itata Alto (Hasta Rio Diguillin),1957-11-11,2017-06-30,17585,-
+8372002,DGA,dga_web,Rio Polcura En Cuatro Junta,1319,-37.1072,-71.2422,83,Rio Bio-Bio,837,Rio Laja Alto (Hasta Bajo Junta Rio Rucue),2002-11-19,2018-03-09,5169,2003-01-15
+8385001,DGA,dga_web,Rio Claro En Camino Yumbel-Estacion,0,-37.1183,-72.545,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1985-01-09,2000-08-31,5342,-
+8123003,DGA,dga_web,Rio Cholguan En Cholguan,0,-37.1333,-72.05,81,Rio Itata,812,Rio Itata Alto (Hasta Rio Diguillin),1928-06-23,1931-08-31,1161,-
+8123001,DGA,dga_web,Rio Itata En Cholguan,220,-37.15,-72.0667,81,Rio Itata,812,Rio Itata Alto (Hasta Rio Diguillin),1924-01-22,2017-06-30,30629,-
+8123002,DGA,dga_web,Canal ZaÑArtu Bocatoma Itata,230,-37.1667,-72.0333,81,Rio Itata,812,Rio Itata Alto (Hasta Rio Diguillin),1958-09-10,1982-04-30,6820,-
+8430001,DGA,dga_web,Rio Laraquete En El Cajon,15,-37.1667,-73.1667,84,Costeras E Islas Entre Rios Bio-Bio Y Carampangue,843,Costeras Entre R Laraquete (Incl) Y R Carampangue,1985-03-01,1996-12-31,3972,-
+8333003,DGA,dga_web,Rio Bureo En Puente Acceso A Mulchen,138,-37.1694,-72.2664,83,Rio Bio-Bio,833,Rio Bio-Bio Entre Rio Duqueco Y Rio Vergara,2012-02-09,2013-10-21,565,-
+8381002,DGA,dga_web,Rio Laja En Curanilahue,148,-37.1833,-72.3333,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1914-05-04,1931-08-31,6076,-
+8381004,DGA,dga_web,Canal Batuco En Bocatoma (Rec.R.Laja),151,-37.1994,-72.3133,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1993-10-01,1994-03-31,182,-
+8385003,DGA,dga_web,Rio Claro En Estac. Rio Claro (Rec.Laja),80,-37.2,-72.6158,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1993-10-01,1994-03-31,182,-
+8385002,DGA,dga_web,Rio Claro En Puente Claro,0,-37.2,-72.6167,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1983-11-04,1984-12-31,424,-
+8381006,DGA,dga_web,Canal La Mancha En Bocatoma (Rec.Laja),153,-37.205,-72.325,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1993-10-01,1994-03-31,182,-
+8370006,DGA,dga_web,Canal Alto Polcura,1450,-37.2058,-71.2297,83,Rio Bio-Bio,837,Rio Laja Alto (Hasta Bajo Junta Rio Rucue),2003-01-01,2018-03-09,5120,2003-01-01
+8381011,DGA,dga_web,Estero Batuco A.J. Laja (Rec.R.Laja),100,-37.2064,-72.4436,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1993-10-01,1994-03-31,182,-
+8381008,DGA,dga_web,Canal Duegnas En Bocatoma (Rec.Laja),133,-37.2067,-72.3769,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1993-10-07,1994-03-31,168,-
+8381009,DGA,dga_web,Canal Aguada En Bocatoma (Rec.R.Laja),133,-37.2078,-72.3747,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1993-10-01,1994-03-31,182,-
+8381007,DGA,dga_web,Estero Zanjon Seco A.J. Laja (Rec.Laja),149,-37.2092,-72.32,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1993-10-01,1994-03-31,182,-
+8381003,DGA,dga_web,Rio Laja Ag.Arr. Del Salto (Rec.R.Laja),140,-37.2119,-72.3242,83,Rio Bio-Bio,838,Laja Bajo,2009-08-01,2018-03-09,2362,2011-01-01
+8382003,DGA,dga_web,Canal Morales En Bocatoma (Rec.R.Laja),141,-37.2139,-72.3664,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1993-10-24,1994-03-31,159,-
+8381010,DGA,dga_web,Rio Laja En Pte.Longitudinal (Rec.Laja),128,-37.2158,-72.3803,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1993-10-01,1994-03-31,182,-
+8381001,DGA,dga_web,Rio Laja En El Salto,97,-37.2167,-72.3833,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1958-11-27,1959-06-25,206,-
+8383002,DGA,dga_web,Estero Potrerada A.J.Laja (Rec.R.Laja),85,-37.2256,-72.545,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1993-10-01,1994-03-31,182,-
+8382002,DGA,dga_web,Canal Quilales En Bocatoma (Rec.R.Laja),141,-37.2331,-72.365,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1993-10-13,1994-03-31,170,-
+8383001,DGA,dga_web,Rio Laja En Puente Perales,65,-37.2333,-72.5333,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1957-08-28,2017-02-28,20067,-
+8382004,DGA,dga_web,Estero Caliboro A.J. Laja (Rec.R.Laja),106,-37.2444,-72.4786,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1993-10-01,1994-03-31,182,-
+8380003,DGA,dga_web,Canal Siberia En Bocatoma (Rec.R.Laja),300,-37.2497,-72.0056,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1993-10-01,1994-03-31,182,-
+8530001,DGA,dga_web,Rio Carampangue En Carampangue,3,-37.25,-73.2667,85,Rio Carampangue,853,Rio Carampangue Entre Arriba E. Colico Y Desemboca,1970-12-15,1983-12-31,3806,-
+8386002,DGA,dga_web,Rio Laja En La Cantera (Rec.R.Laja),75,-37.2506,-72.6869,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1993-10-01,1994-03-31,182,-
+8382001,DGA,dga_web,Estero Cachapoal A.J. Laja (Rec.R.Laja),100,-37.2544,-72.4983,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1993-11-22,1994-03-31,130,-
+8386001,DGA,dga_web,Rio Laja En San Rosendo,40,-37.2667,-72.7167,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1971-04-01,1983-09-30,4493,-
+8122001,DGA,dga_web,Canal ZaÑArtu Salida Laguna Trupan,460,-37.2744,-71.8189,81,Rio Itata,812,Rio Itata Alto (Hasta Rio Diguillin),1957-11-06,2015-12-23,9275,-
+8380006,DGA,dga_web,Rio Laja En Tucapel 2,0,-37.2792,-71.9847,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,2014-01-01,2018-03-09,1146,2014-01-01
+8380001,DGA,dga_web,Rio Laja En Tucapel,295,-37.2836,-71.9836,83,Rio Bio-Bio,838,Laja Bajo,1916-03-01,2015-02-24,24562,-
+8380002,DGA,dga_web,Canal Laja Camino A Tucapel,285,-37.3003,-71.9703,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,1933-10-12,2018-03-09,13690,2003-01-01
+8380005,DGA,dga_web,Canal Laja-DiguillÍN,0,-37.3006,-71.9642,83,Rio Bio-Bio,839,Rio Laja Bajo (Bajo Junta Rio Rucue Y Rio Bio-Bio,2003-01-01,2018-03-09,4606,2003-01-01
+8375005,DGA,dga_web,Canal Collao,490,-37.3022,-71.6467,83,Rio Bio-Bio,837,Rio Laja Alto (Hasta Bajo Junta Rio Rucue),2003-01-01,2018-03-09,4644,2003-01-01
+8375004,DGA,dga_web,Canal ZaÑArtu Despues Bocatoma Rio Laja,490,-37.3036,-71.6378,83,Rio Bio-Bio,837,Rio Laja Alto (Hasta Bajo Junta Rio Rucue),2003-01-01,2018-03-09,5316,2003-01-01
+8371001,DGA,dga_web,Canal De Descarga Central Antuco,0,-37.3167,-71.6667,83,Rio Bio-Bio,837,Rio Laja Alto (Hasta Bajo Junta Rio Rucue),2000-01-01,2018-03-09,6297,2000-01-01
+8375006,DGA,dga_web,Canal Mirrihue,500,-37.3256,-71.6489,83,Rio Bio-Bio,837,Rio Laja Alto (Hasta Bajo Junta Rio Rucue),2003-01-01,2018-03-09,5288,2003-01-01
+8375001,DGA,dga_web,Rio Polcura  A. Desc. Central El Toro,710,-37.3333,-71.5336,83,Rio Bio-Bio,837,Rio Laja Alto (Hasta Bajo Junta Rio Rucue),2003-08-07,2018-03-09,5254,2014-05-01
+8375002,DGA,dga_web,Canal Abanico En Km 049,890,-37.3344,-71.5336,83,Rio Bio-Bio,837,Rio Laja Alto (Hasta Bajo Junta Rio Rucue),2003-01-01,2018-03-09,5010,2003-01-01
+8376001,DGA,dga_web,Rio Rucue En Camino A Antuco,450,-37.34,-71.7942,83,Rio Bio-Bio,837,Rio Laja Alto (Hasta Bajo Junta Rio Rucue),1983-11-18,2016-10-16,9615,-
+8374002,DGA,dga_web,Canal De Descarga Central El Toro,0,-37.3656,-71.4786,83,Rio Bio-Bio,837,Rio Laja Alto (Hasta Bajo Junta Rio Rucue),2000-01-01,2018-03-09,6325,2000-01-01
+8366002,DGA,dga_web,Estero Quilque En Los Angeles,144,-37.4561,-72.3272,83,Rio Bio-Bio,836,Rio Bio-Bio Entre Rio Vergara Y Rio Laja,2006-01-01,2017-05-24,3276,2006-01-01
+8362001,DGA,dga_web,Rio Nicodahue En Pichun,0,-37.4622,-72.7533,83,Rio Bio-Bio,836,Rio Bio-Bio Entre Rio Vergara Y Rio Laja,1988-04-01,2015-05-28,8681,-
+8324002,DGA,dga_web,Estero Paillihue En Ex Longitudinal Sur,138,-37.4728,-72.3244,83,Rio Bio-Bio,832,Rio Duqueco,2011-01-01,2018-03-09,2328,2011-01-01
+8700002,DGA,dga_web,Rio Curanilahue En Curanilahue,149,-37.4833,-73.3369,87,Rio Lebu,870,Rio Curanilahue,2009-06-01,2018-03-09,2890,2012-01-23
+8700003,DGA,dga_web,Estero Plegarias Antes De Jta Rio Curanilahue,149,-37.4878,-73.3442,87,Rio Lebu,870,Rio Curanilahue,2009-06-25,2018-03-09,3154,2014-08-01
+8359001,DGA,dga_web,Rio Vergara En Nacimiento,0,-37.5,-72.65,83,Rio Bio-Bio,835,Rios Malleco Y Vergara,1928-04-18,1931-08-31,1204,-
+8323001,DGA,dga_web,Rio Duqueco En Cerrillos,129,-37.5422,-72.3119,83,Rio Bio-Bio,832,Rio Duqueco,1962-07-01,2018-03-09,17547,2012-12-28
+8323002,DGA,dga_web,Rio Duqueco En Villucura,228,-37.55,-72.0333,83,Rio Bio-Bio,832,Rio Duqueco,1941-01-01,2017-06-30,26218,-
+8334001,DGA,dga_web,Rio Biobio En Coihue,60,-37.5503,-72.5903,83,Rio Bio-Bio,833,Rio Bio-Bio Entre Rio Duqueco Y Rio Vergara,1928-11-23,2018-03-09,11910,2014-11-01
+8820001,DGA,dga_web,Rio Caramavida En Caramavida,15,-37.6,-73.4833,88,Costeras Lebu-Paicavi,882,Rio Paicavi,1953-02-17,2017-06-30,13387,-
+8319001,DGA,dga_web,Rio Biobio En Longitudinal,138,-37.6019,-72.2783,83,Rio Bio-Bio,831,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,1965-04-05,2017-04-03,4685,2011-01-01
+8720001,DGA,dga_web,Rio Lebu En Las Corrientes (En Los Alamos),60,-37.6833,-73.35,87,Rio Lebu,872,Rio Lebu Bajo Jta  Curanilahue-Pilpilco Y Desemb.,1963-05-17,2015-05-11,5974,-
+8318001,DGA,dga_web,Canal Biobio Sur En Km 7,240,-37.7,-71.9667,83,Rio Bio-Bio,831,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,1971-11-01,1982-05-31,2287,-
+8316002,DGA,dga_web,Rio Huequecura Aguas Arriba De Embalse Angostura,330,-37.7047,-71.7683,83,Rio Bio-Bio,831,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,2013-12-22,2018-03-09,1515,2016-04-12
+8317005,DGA,dga_web,Rio Biobio En Puente Piulo,291,-37.7092,-71.8236,83,Rio Bio-Bio,831,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,2013-12-23,2018-03-09,1538,2013-12-23
+8317001,DGA,dga_web,Rio Biobio En Rucalhue,261,-37.7106,-71.9017,83,Rio Bio-Bio,831,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,1937-06-01,2018-03-09,27455,2012-03-01
+8317006,DGA,dga_web,Embalse Central Angostura,324,-37.7131,-71.8172,83,Rio Bio-Bio,831,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,2013-12-23,2018-03-09,1538,2013-12-23
+8332001,DGA,dga_web,Rio Bureo En Mulchen,133,-37.7167,-72.2333,83,Rio Bio-Bio,833,Rio Bio-Bio Entre Rio Duqueco Y Rio Vergara,1929-05-12,2009-03-31,25167,-
+8330001,DGA,dga_web,Rio Mulchen En Mulchen,120,-37.7167,-72.25,83,Rio Bio-Bio,833,Rio Bio-Bio Entre Rio Duqueco Y Rio Vergara,1937-03-23,2018-03-09,24450,2015-07-01
+8358001,DGA,dga_web,Rio Vergara En Tijeral,40,-37.7333,-72.6167,83,Rio Bio-Bio,835,Rios Malleco Y Vergara,1964-01-01,2017-06-30,17974,-
+8317002,DGA,dga_web,Rio Lirquen En Cerro El Padre,340,-37.7756,-71.8628,83,Rio Bio-Bio,831,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,1942-12-10,2017-06-30,26750,-
+8317004,DGA,dga_web,Rio Biobio En La Culebra,338,-37.7964,-71.6989,83,Rio Bio-Bio,831,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,2013-12-22,2018-03-09,1502,2015-10-01
+8822001,DGA,dga_web,Rio Tucapel En Cagnete,20,-37.8,-73.4,88,Costeras Lebu-Paicavi,882,Rio Paicavi,1953-12-06,1997-07-31,10706,-
+8821006,DGA,dga_web,Rio Leiva En Puente Camino A Contulmo,48,-37.8131,-73.3922,88,Costeras Lebu-Paicavi,882,Rio Paicavi,2009-01-01,2018-03-09,3084,2009-01-01
+8821002,DGA,dga_web,Rio Butamalal En Butamalal,51,-37.8167,-73.25,88,Costeras Lebu-Paicavi,882,Rio Paicavi,1950-08-10,2017-05-10,19164,-
+8821001,DGA,dga_web,Rio Cayucupil En Cayucupil,47,-37.8167,-73.25,88,Costeras Lebu-Paicavi,882,Rio Paicavi,1950-08-10,1983-12-31,11325,-
+8821003,DGA,dga_web,Rio Reputo En Reputo,53,-37.8167,-73.3667,88,Costeras Lebu-Paicavi,882,Rio Paicavi,1950-09-29,1983-12-31,11849,-
+8342001,DGA,dga_web,Rio Renaico En Longitudinal,135,-37.85,-72.3833,83,Rio Bio-Bio,834,Rio Renaico,1982-06-18,2017-06-30,11795,-
+8343001,DGA,dga_web,Rio Mininco En Longitudinal,125,-37.8636,-72.3942,83,Rio Bio-Bio,834,Rio Renaico,1963-06-01,2017-06-30,18805,-
+8352001,DGA,dga_web,Rio Malleco En Lolenco,0,-37.8667,-72.6,83,Rio Bio-Bio,835,Rios Malleco Y Vergara,1920-02-14,1995-04-17,1233,-
+8313000,DGA,dga_web,Rio Pangue En Captacion,550,-37.8986,-71.5806,83,Rio Bio-Bio,831,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,2002-11-19,2018-03-09,5254,2002-11-19
+8313001,DGA,dga_web,Rio Bio Bio Ante Junta Pangue,420,-37.8997,-71.6239,83,Rio Bio-Bio,831,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,2000-01-01,2018-03-09,5539,2000-01-01
+8822002,DGA,dga_web,Rio Elicura En Puente Elicura,25,-37.9333,-73.2167,88,Costeras Lebu-Paicavi,882,Rio Paicavi,1987-08-01,2003-01-31,5206,-
+8356001,DGA,dga_web,Rio Rahue En Quebrada Culen,65,-37.9431,-72.8094,83,Rio Bio-Bio,835,Rios Malleco Y Vergara,1997-07-01,2017-06-30,6938,-
+8351001,DGA,dga_web,Rio Malleco En Collipulli,153,-37.9647,-72.4361,83,Rio Bio-Bio,835,Rios Malleco Y Vergara,1920-02-19,2018-03-09,23205,2016-10-15
+8355001,DGA,dga_web,Rio Los Sauces En Las Balsas,0,-37.9667,-72.8333,83,Rio Bio-Bio,835,Rios Malleco Y Vergara,1929-06-11,1946-11-30,6223,-
+8312001,DGA,dga_web,Rio Bio Bio Ante Junta Huiri Huiri,524,-37.9897,-71.52,83,Rio Bio-Bio,831,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,2002-12-07,2017-06-30,5045,-
+9101002,DGA,dga_web,Rio Puren En Puren,0,-38.0128,-73.0425,91,Rio Imperial,910,Rio Lumaco,1994-09-01,2009-04-30,5148,-
+8341001,DGA,dga_web,Rio Renaico En Jauja,418,-38.0333,-71.9333,83,Rio Bio-Bio,834,Rio Renaico,1948-04-01,1995-03-31,2380,-
+9101001,DGA,dga_web,Rio Puren En Tranaman,90,-38.0333,-73.0167,91,Rio Imperial,910,Rio Lumaco,1948-02-07,2018-03-09,20490,2016-10-06
+8312000,DGA,dga_web,Rio Bio Bio En Angostura Ralco 1,652,-38.0369,-71.4781,83,Rio Bio-Bio,831,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,2000-01-01,2018-03-09,5106,2000-01-01
+8308000,DGA,dga_web,Rio Lomin En Puente La Junta,755,-38.0661,-71.3497,83,Rio Bio-Bio,830,Rio Bio-Bio Alto (Hasta Despues Junta Rio Lamin),2013-06-04,2016-12-02,802,2013-06-04
+9102002,DGA,dga_web,Rio Lumaco En San Gerardo,75,-38.0833,-72.8833,91,Rio Imperial,910,Rio Lumaco,1948-02-09,1949-03-31,416,-
+8910001,DGA,dga_web,Rio Lleu-Lleu En Desague Lago Lleu-Lleu,10,-38.1167,-73.4,101,Costeras E Islas Entre R. Paicavi Y Limite Reg.,1012,Rio Lleu Lleu,1972-04-01,2017-06-30,15617,-
+9104002,DGA,dga_web,Rio Dumo En Santa Ana,300,-38.15,-72.3,91,Rio Imperial,910,Rio Lumaco,1987-01-01,2017-02-28,10741,-
+9102001,DGA,dga_web,Rio Lumaco En Lumaco,70,-38.15,-72.9,91,Rio Imperial,910,Rio Lumaco,1947-10-18,2018-03-09,24170,2016-01-15
+8307002,DGA,dga_web,Rio Bio-Bio En Llanquen,767,-38.2008,-71.2989,83,Rio Bio-Bio,830,Rio Bio-Bio Alto (Hasta Despues Junta Rio Lamin),2000-01-01,2018-03-09,5471,2000-01-01
+8350001,DGA,dga_web,Rio Malleco En La Laguna,850,-38.2142,-71.8283,83,Rio Bio-Bio,835,Rios Malleco Y Vergara,1960-06-01,1984-03-10,5646,-
+9104001,DGA,dga_web,Rio Traiguen En Victoria,350,-38.2167,-72.3167,91,Rio Imperial,910,Rio Lumaco,1950-10-24,2017-06-30,22983,-
+9105001,DGA,dga_web,Rio Traiguen En Traiguen,169,-38.25,-72.6667,91,Rio Imperial,910,Rio Lumaco,1982-09-10,1983-04-30,158,-
+9103001,DGA,dga_web,Rio Lumaco En Chanco,65,-38.25,-72.9333,91,Rio Imperial,910,Rio Lumaco,1947-10-17,1949-12-31,789,-
+9107002,DGA,dga_web,Estero Chanco Camino Curacautin,300,-38.2667,-72.25,91,Rio Imperial,910,Rio Lumaco,1969-09-01,1983-04-30,3897,-
+9106001,DGA,dga_web,Rio Quino En Longitudinal,450,-38.3,-72.3833,91,Rio Imperial,910,Rio Lumaco,1959-08-22,2017-02-28,19153,-
+9107001,DGA,dga_web,Estero Chufquen En Chufquen,158,-38.3,-72.6667,91,Rio Imperial,910,Rio Lumaco,1987-08-25,2017-02-28,9751,-
+9113001,DGA,dga_web,Rio Quillen En Galvarino,140,-38.4,-72.7833,91,Rio Imperial,911,Rio Chol Chol,1959-09-29,2016-09-06,20037,-
+9123001,DGA,dga_web,Rio Cautin En Rari-Ruca,425,-38.4303,-72.0106,91,Rio Imperial,912,Cautin Alto (Hasta Antes Junta R. Quepe),1929-03-01,2018-03-09,31264,2012-06-01
+8304001,DGA,dga_web,Rio Lonquimay Antes Junta Rio Bio Bio,0,-38.4333,-71.2333,83,Rio Bio-Bio,830,Rio Bio-Bio Alto (Hasta Despues Junta Rio Lamin),1985-03-28,2016-05-31,10989,-
+9111001,DGA,dga_web,Rio Quillen En Longitudinal,278,-38.45,-72.4333,91,Rio Imperial,911,Rio Chol Chol,1959-08-18,1983-04-30,8093,-
+9122002,DGA,dga_web,Rio Blanco En Curacautin,405,-38.4508,-71.8658,91,Rio Imperial,912,Rio Cautin Alto (Hasta Antes Junta Rio Quepe),1986-10-22,2015-10-28,10048,-
+9126001,DGA,dga_web,Rio Collin En Codahue,250,-38.5775,-72.1861,91,Rio Imperial,912,Rio Cautin Alto (Hasta Antes Junta Rio Quepe),1996-07-27,2015-09-29,5930,-
+9116001,DGA,dga_web,Rio Cholchol En Cholchol,20,-38.6081,-72.8478,91,Rio Imperial,911,R.  Chol Chol,1929-03-01,2018-03-09,22722,2013-12-01
+9127001,DGA,dga_web,Rio Muco En Puente Muco,250,-38.6167,-72.4167,91,Rio Imperial,912,Rio Cautin Alto (Hasta Antes Junta Rio Quepe),1950-03-07,2017-06-30,22372,-
+9131001,DGA,dga_web,Rio Quepe En Vilcun,292,-38.6833,-72.2333,91,Rio Imperial,913,Rio Quepe,1946-03-23,2015-04-30,21841,-
+9129002,DGA,dga_web,Rio Cautin En Cajon,130,-38.6867,-72.5028,91,Rio Imperial,912,Cautin Alto (Hasta Antes Junta R. Quepe),1949-03-03,2018-03-09,23763,2016-11-30
+9129001,DGA,dga_web,Rio Cautin En Temuco,113,-38.7333,-72.6,91,Rio Imperial,912,Rio Cautin Alto (Hasta Antes Junta Rio Quepe),1923-12-09,1932-10-31,3128,-
+9118001,DGA,dga_web,Rio Cholchol En Nueva Imperial,20,-38.7333,-72.95,91,Rio Imperial,911,Rio Chol Chol,1928-11-14,1954-02-26,5081,-
+9129009,DGA,dga_web,Estero Botrolhue En Labranza,64,-38.7639,-72.7542,91,Rio Imperial,912,Rio Cautin Alto (Hasta Antes Junta Rio Quepe),2014-01-01,2018-03-09,901,2014-01-01
+9140001,DGA,dga_web,Rio Cautin En Almagro,20,-38.78,-72.9469,91,Rio Imperial,914,Rio Cautin Entre Rio Quepe Y Rio Chol-Chol,1965-05-16,2017-06-30,17778,-
+7308003,DGA,dga_web,Canal Las Garzas,0,-38.8044,-70.9333,73,Rio Maule,730,Rio Maule Alto (Hasta Antes Junta Rio Melado),2002-12-13,2015-12-31,4407,-
+9400000,DGA,dga_web,Rio Truful En Camino Internacional,520,-38.8444,-71.6536,94,Rio Tolten,940,Rio Allipen,2014-12-18,2018-03-09,1114,2015-07-20
+9402002,DGA,dga_web,Estero Melipeuco,1000,-38.85,-71.7667,94,Rio Tolten,940,Rio Allipen,1952-07-09,1956-12-31,1594,-
+9134001,DGA,dga_web,Rio Huichahue En Faja 24000,150,-38.85,-72.3333,91,Rio Imperial,913,Rio Quepe,1985-01-17,2017-01-31,11050,-
+9135001,DGA,dga_web,Rio Quepe En Quepe,80,-38.85,-72.6167,91,Rio Imperial,913,Rio Quepe,1929-12-13,2016-02-29,19166,-
+9402001,DGA,dga_web,Rio Allipen En Melipeuco,450,-38.8653,-71.7336,94,Rio Tolten,940,Rio Allipen,1985-01-17,2016-10-26,11104,-
+9430001,DGA,dga_web,Rio Tolten En Pitrufquen,0,-38.9667,-72.6333,94,Rio Tolten,943,Rio Tolten Bajo (Bajo Jta Allipen-Donguil Y Desem),1928-04-15,2018-01-01,1411,2016-01-01
+9404001,DGA,dga_web,Rio Allipen En Los Laureles,190,-38.9833,-72.2333,94,Rio Tolten,940,Rio Allipen,1946-03-18,2018-03-09,24896,2017-07-01
+9437002,DGA,dga_web,Rio Tolten En Teodoro Schmidt,15,-39.0144,-73.0828,94,Rio Tolten,943,Tolten Bajo,1991-02-12,2018-03-09,9735,2003-01-01
+9406001,DGA,dga_web,Rio Allipen En Allipen,100,-39.0167,-72.5167,94,Rio Tolten,940,Rio Allipen,1929-04-09,1938-01-31,3185,-
+9437001,DGA,dga_web,Rio Tolten En Huilo,26,-39.0167,-73.1,94,Rio Tolten,943,Rio Tolten Bajo (Bajo Jta Allipen-Donguil Y Desem),1948-01-01,1995-04-24,870,-
+9405001,DGA,dga_web,Rio Curaco En Colico,250,-39.0333,-72.0833,94,Rio Tolten,940,Rio Allipen,1986-10-31,2017-06-30,8890,-
+9436001,DGA,dga_web,Rio Mahuidanche En Santa Ana,50,-39.0833,-72.9333,94,Rio Tolten,943,Rio Tolten Bajo (Bajo Jta Allipen-Donguil Y Desem),1987-03-17,2017-06-30,10508,-
+9423001,DGA,dga_web,Rio Tolten En Coipue,200,-39.1,-72.3833,94,Rio Tolten,942,Lago Villarica Y Rio Tolten Alto (Antes  Allipen),1929-12-16,2018-03-09,11064,2017-07-01
+9434001,DGA,dga_web,Rio Donguil En Gorbea,85,-39.1,-72.6833,94,Rio Tolten,943,Rio Tolten Bajo (Bajo Jta Allipen-Donguil Y Desem),1947-10-06,2017-04-10,18343,-
+9433001,DGA,dga_web,Rio Puyehue En Quitratue,90,-39.15,-72.6667,94,Rio Tolten,943,Rio Tolten Bajo (Bajo Jta Allipen-Donguil Y Desem),1947-10-07,2017-04-10,23672,-
+9422001,DGA,dga_web,Rio Pedregoso En Santa Filomena,325,-39.1667,-72.1333,94,Rio Tolten,942,Lago Villarica Y Rio Tolten Alto (Antes  Allipen),1946-12-14,1947-06-18,187,-
+9433002,DGA,dga_web,Estero Puyehue En Lastarria,98,-39.225,-72.6667,94,Rio Tolten,943,Rio Tolten Bajo (Bajo Jta Allipen-Donguil Y Desem),1947-10-08,1950-02-26,828,-
+9416001,DGA,dga_web,Rio Liucura En Liucura,402,-39.2561,-71.8244,94,Rio Tolten,941,Rio Pucon,1971-10-01,2017-06-30,14372,-
+9420001,DGA,dga_web,Rio Tolten En Villarica,250,-39.2667,-72.2333,94,Rio Tolten,942,Lago Villarica Y Rio Tolten Alto (Antes  Allipen),1929-03-05,2018-03-09,30759,2017-06-15
+9414001,DGA,dga_web,Rio Trancura Antes Rio Llafenco,386,-39.3333,-71.7667,94,Rio Tolten,941,Rio Pucon,1970-10-01,2017-06-30,16287,-
+9412001,DGA,dga_web,Rio Trancura En Curarrehue,400,-39.36,-71.5808,94,Rio Tolten,941,Rio Pucon,1968-09-01,2018-03-09,17286,2016-11-10
+10140001,DGA,dga_web,Rio Santo Domingo En Rinconada De Piedra,0,-39.3833,-73.1333,101,Rio Valdivia,1014,Rio Valdivia Bajo (Entre Rio Angachillas Y Desemb),1992-03-01,2016-10-31,8790,-
+10133000,DGA,dga_web,Rio Leufucade En Purulon,97,-39.4781,-72.6908,101,Rio Valdivia,1013,Rio Cruces,2012-08-30,2018-03-09,2017,2017-07-01
+10134001,DGA,dga_web,Rio Cruces En Rucaco,60,-39.55,-72.9,101,Rio Valdivia,1013,Rio Cruces,1969-05-01,2018-03-09,17553,2016-10-06
+10135001,DGA,dga_web,Rio Cruces En Paico,17,-39.5833,-73.1,101,Rio Valdivia,1013,Rio Cruces,1929-01-24,1932-12-31,1049,-
+10137001,DGA,dga_web,Rio Inaque En Mafil,25,-39.6675,-72.95,101,Rio Valdivia,1013,Rio Cruces,1928-02-20,2017-04-30,12615,-
+10138001,DGA,dga_web,Rio Inaque En Putabla,21,-39.6833,-73.0167,101,Rio Valdivia,1013,Rio Cruces,1926-07-05,1947-12-31,7340,-
+10102001,DGA,dga_web,Rio Liquine En Liquine,600,-39.7267,-71.8497,101,Rio Valdivia,1010,Rio Valdivia Alto (Hasta Desague Lago Panguipulli),1986-07-22,2016-04-24,9780,-
+10113001,DGA,dga_web,Rio San Pedro En Malihue,110,-39.7333,-72.6833,101,Rio Valdivia,1011,Rio San Pedro (L Panguipulli Y Bajo R Quinchilca),1929-01-01,1935-04-30,2145,-
+10111001,DGA,dga_web,Rio San Pedro En Desague Lago Rinihue,115,-39.7667,-72.475,101,Rio Valdivia,1011,Rio San Pedro (L Panguipulli Y Bajo R Quinchilca),1929-01-01,2017-06-30,13047,-
+10122001,DGA,dga_web,Rio Calle Calle En Balsa San Javier,14,-39.775,-72.9833,101,Rio Valdivia,1012,Rio Calle Calle,1987-02-01,2008-05-30,7663,-
+10122002,DGA,dga_web,Rio Calle Calle En Antilhue,15,-39.8,-72.9667,101,Rio Valdivia,1012,Rio Calle Calle,1928-12-07,1939-06-30,3821,-
+10122003,DGA,dga_web,Rio Calle Calle En Pupunahue,60,-39.8044,-72.9025,101,Rio Valdivia,1012,Rio Calle Calle,2007-03-08,2018-03-09,4005,2016-10-03
+10121001,DGA,dga_web,Rio Collileufu En Los Lagos,25,-39.8583,-72.825,101,Rio Valdivia,1012,Rio Calle Calle,1987-02-01,2017-04-30,10405,-
+10100002,DGA,dga_web,Rio Fui En Desage Lago Pirihueico,600,-39.8747,-71.8897,101,Rio Valdivia,1010,Rio Valdivia Alto (Hasta Desague Lago Panguipulli),1926-03-01,2017-03-20,11231,-
+10142003,DGA,dga_web,Rio Futa En Tres Chiflones,10,-39.9717,-73.1469,101,Rio Valdivia,1014,Rio Valdivia Bajo (Entre Rio Angachillas Y Desemb),2002-05-23,2017-06-30,5054,-
+10142002,DGA,dga_web,Rio Futa En Futa,60,-39.9833,-73.15,101,Rio Valdivia,1014,Rio Valdivia Bajo (Entre Rio Angachillas Y Desemb),1926-07-08,1937-12-29,3624,-
+10100001,DGA,dga_web,Rio Huahum En Desembocadura Lago Pirihueico,598,-40.0175,-71.72,101,Rio Valdivia,1010,Rio Valdivia Alto (Hasta Desague Lago Panguipulli),1941-02-10,1948-02-29,2542,-
+10142001,DGA,dga_web,Rio Futa En Puente Chiflon,85,-40.0333,-73.1667,101,Rio Valdivia,1014,Rio Valdivia Bajo (Entre Rio Angachillas Y Desemb),1968-07-01,1969-07-25,390,-
+10100006,DGA,dga_web,Rio Huahum En La Frontera,616,-40.0967,-71.6758,101,Rio Valdivia,1010,Rio Valdivia Alto (Hasta Desague Lago Panguipulli),2002-04-16,2017-03-31,5107,-
+10305001,DGA,dga_web,Rio Caunahue Camino A Llifen,90,-40.1522,-72.2511,103,Rio Bueno,1030,Afluentes Lago Ranco,1997-01-01,2017-03-31,6902,-
+10304001,DGA,dga_web,Rio Calcurrupe En Desembocadura,160,-40.25,-72.2667,103,Rio Bueno,1030,Afluentes Lago Ranco,1986-07-01,2017-04-30,10749,-
+10306001,DGA,dga_web,Rio Nilahue En Mayay,80,-40.2667,-72.2333,103,Rio Bueno,1030,Afluentes Lago Ranco,1987-08-01,2018-03-09,11123,2015-08-03
+10313001,DGA,dga_web,Rio Llollelhue En La Union,20,-40.2667,-73.0833,103,Rio Bueno,1031,Rio Bueno Entre Lago Ranco Y Rio Pilmaiquen,1928-03-06,2018-03-09,6315,2016-11-14
+10311001,DGA,dga_web,Rio Bueno En Bueno,45,-40.3167,-72.9667,103,Rio Bueno,1031,Rio Bueno Entre Lago Ranco Y Rio Pilmaiquen,1926-07-11,2017-05-31,12278,-
+10330001,DGA,dga_web,Rio Bueno En Trumao,15,-40.3333,-73.1833,103,Rio Bueno,1033,Rio Bueno Entre Rio Pilmaiquen Y Rio Rahue,1928-12-15,1940-02-29,3738,-
+10328001,DGA,dga_web,Rio Pilmaiquen En San Pablo,40,-40.3842,-73.0022,103,Rio Bueno,1032,Rio Pilmaiquen,1929-03-23,2017-06-30,20410,-
+10327001,DGA,dga_web,Rio Chirre Antes Junta Rio Pilmaiquen,0,-40.4333,-72.9167,103,Rio Bueno,1032,Rio Pilmaiquen,2001-07-30,2017-05-31,4949,-
+10364001,DGA,dga_web,Rio Rahue En Forrahue,17,-40.5167,-73.2833,103,Rio Bueno,1034,Rio Rahue Bajo (Entre Antes Jta R Negro R Bueno),1986-02-27,2017-07-31,10587,-
+10360001,DGA,dga_web,Rio Rahue En Osorno,20,-40.55,-73.15,103,Rio Bueno,1034,Rio Rahue Bajo (Entre Antes Jta R Negro R Bueno),1926-07-13,1932-08-31,1837,-
+10401001,DGA,dga_web,Rio Tranallaguin En Carrico,45,-40.5833,-73.6,104,Cuencas E Islas R. Bueno - R. Puelo,1040,Costeras Entre Rio Bueno Y Rio Maullin,2000-06-09,2017-04-30,4198,-
+10362001,DGA,dga_web,Rio Damas En Tacamo,1250,-40.6181,-73.0594,103,Rio Bueno,1034,Rio Rahue Bajo (Entre Antes Jta R Negro R Bueno),1986-02-01,2017-03-31,10916,-
+10344003,DGA,dga_web,Rio Rahue Antes Junta Rio Negro,40,-40.63,-73.1783,103,Rio Bueno,1034,Rio Rahue Hasta Antes Junta Rio Negro,2008-05-01,2018-03-09,3571,2014-09-05
+10322003,DGA,dga_web,Rio Gol Gol En Puente Nº 2,330,-40.6603,-72.1772,103,Rio Bueno,1032,Rio Pilmaiquen,2009-07-22,2018-03-09,3047,2012-06-13
+10344004,DGA,dga_web,Rio Rahue En Chan Chan,50,-40.7022,-73.0164,103,Rio Bueno,1034,Rio Rahue Hasta Antes Junta Rio Negro,2008-06-25,2017-06-30,3157,-
+10356001,DGA,dga_web,Rio Negro En Chahuilco,45,-40.7136,-73.2278,103,Rio Bueno,1035,Rio Negro,1986-03-01,2018-03-09,10835,2006-05-26
+10344001,DGA,dga_web,Rio Rahue En Cancura,85,-40.75,-72.9833,103,Rio Bueno,1034,Rio Rahue Hasta Antes Junta Rio Negro,1929-03-09,1947-12-31,6780,-
+10340001,DGA,dga_web,Rio Rahue En Desague Lago Rupanco,130,-40.7889,-72.6889,103,Rio Bueno,1034,Rio Rahue Hasta Antes Junta Rio Negro,1986-02-01,2018-03-09,11359,2012-12-28
+10355003,DGA,dga_web,Rio Forrahue En Rio Negro,52,-40.7956,-73.2144,103,Rio Bueno,1035,Rio Negro,2014-01-01,2018-03-09,1282,2014-01-01
+10343002,DGA,dga_web,Rio Coihueco Antes Junta Rio Rahue,75,-40.8206,-72.9133,103,Rio Bueno,1034,Rio Rahue Hasta Antes Junta Rio Negro,2008-02-21,2017-03-31,2994,-
+10363002,DGA,dga_web,Rio Forrahue En Aromos,0,-40.8856,-73.1333,103,Rio Bueno,1034,Rio Rahue Bajo (Entre Antes Jta R Negro R Bueno),1991-12-04,2017-04-30,8455,-
+10343001,DGA,dga_web,Rio Coihueco Antes Junta Pichicope,150,-40.9333,-72.7,103,Rio Bueno,1034,Rio Rahue Hasta Antes Junta Rio Negro,1987-08-01,2017-03-31,10318,-
+10405005,DGA,dga_web,Rio La Plata Antes Junta Rio Hueyusca,50,-40.9992,-73.5997,104,Cuencas E Islas R. Bueno - R. Puelo,1040,Costeras Entre Rio Bueno Y Rio Maullin,2008-05-01,2016-09-30,2791,-
+10405002,DGA,dga_web,Rio Hueyusca En Camarones,40,-41.0167,-73.6167,104,Cuencas E Islas Entre R.Bueno Y R. Puelo,1040,Costeras Entre Rio Bueno Y Rio Maullin,2001-08-30,2017-04-30,5468,-
+10351001,DGA,dga_web,Rio Toro En Tegualda,95,-41.05,-73.3833,103,Rio Bueno,1035,Rio Negro,2000-05-30,2017-04-30,5796,-
+10405001,DGA,dga_web,Rio Hueyusca En Napeco,25,-41.1,-73.6667,104,Cuencas E Islas R. Bueno - R. Puelo,1040,Costeras Entre Rio Bueno Y Rio Maullin,1988-10-01,1993-12-31,1128,-
+10454001,DGA,dga_web,Rio Petrohue En Desague Lago Todos Los Santos,150,-41.1333,-72.4167,104,Cuencas E Islas R. Bueno - R. Puelo,1045,Rio Petrohue,1940-02-02,1947-05-31,2675,-
+10411003,DGA,dga_web,Rio Maullin En Llanquihue,50,-41.2667,-73.0167,104,Cuencas E Islas R. Bueno - R. Puelo,1041,Rio Maullin,1929-03-12,1946-11-29,6461,-
+10411002,DGA,dga_web,Rio Negro En Las Lomas,60,-41.3833,-73.0667,104,Cuencas E Islas R. Bueno - R. Puelo,1041,Rio Maullin,1989-04-25,2017-04-30,8899,-
+10414001,DGA,dga_web,Rio Maullin En Las Quemas,0,-41.4,-73.2167,104,Cuencas E Islas R. Bueno - R. Puelo,1041,Rio Maullin,1995-08-24,2016-07-31,6554,-
+10411001,DGA,dga_web,Canal Desague Aeropuerto Tepual,108,-41.4167,-73.1167,104,Cuencas E Islas R. Bueno - R. Puelo,1041,Rio Maullin,1976-07-02,1976-12-02,154,-
+10431000,DGA,dga_web,Rio Blanco Ante Junta Rio Chamiza,242,-41.4275,-72.5928,104,Cuencas E Islas R. Bueno - R. Puelo,1043,Rio Chamiza,2002-10-17,2015-04-23,3871,-
+10430005,DGA,dga_web,Lago Chapo (Lm),290,-41.4297,-72.5764,104,Cuencas E Islas Entre R.Bueno Y R. Puelo,1043,Rio Chamiza,2003-01-01,2008-01-01,58,2003-01-01
+10432003,DGA,dga_web,Rio Chico Ante Rio Chamiza,0,-41.4392,-72.8183,104,Cuencas E Islas R. Bueno - R. Puelo,1043,Rio Chamiza,2003-03-14,2018-03-09,4552,2016-09-01
+10432002,DGA,dga_web,Rio Chamiza Ante Junta Rio Chico,8,-41.4417,-72.8089,104,Cuencas E Islas R. Bueno - R. Puelo,1043,Rio Chamiza,2002-10-15,2018-02-11,5223,2015-05-15
+10431001,DGA,dga_web,Rio Lenca Bajo Bocatoma,320,-41.5083,-72.645,104,Cuencas E Islas R. Bueno - R. Puelo,1043,Rio Chamiza,2002-10-17,2014-07-13,3876,-
+10440000,DGA,dga_web,Captacion Lenca,0,-41.5114,-72.6058,104,Cuencas E Islas R. Bueno - R. Puelo,1044,Costeras Entre Rio Chamiza Y Rio Petrohue,2002-12-06,2016-11-17,3376,-
+10523002,DGA,dga_web,Rio Puelo En Carrera Basilio,0,-41.6044,-72.2064,105,Rio Puelo,1050,Rio Puelo Bajo (Entre Bajo Junta Manso Y Desemb),2003-01-01,2018-03-09,5361,2003-01-01
+10520001,DGA,dga_web,Rio Puelo En Desague Lago Tagua Tagua,22,-41.6389,-72.1694,105,Rio Puelo,1052,R. Puelo Bajo,2002-05-30,2016-11-22,4616,-
+10503001,DGA,dga_web,Rio Manso Antes Junta Rio Puelo,28,-41.7219,-72.0139,105,Rio Puelo,1050,Rio Manso,2001-05-27,2017-04-30,5225,-
+10514001,DGA,dga_web,Rio Puelo Antes Junta Con Manso,23,-41.7569,-72.0525,105,Rio Puelo,1051,Rio Puelo Alto (Entre Frontera Y Antes Jta Manso),2001-07-24,2016-08-23,5041,-
+10903001,DGA,dga_web,Rio Vilcun En Bel-Ben,0,-42.0908,-73.75,109,Islas Chiloe Y Circundantes,1090,Isla Chiloe,1990-02-01,2017-06-30,9692,-
+10904001,DGA,dga_web,Rio Grande En San Pedro,0,-42.3933,-73.8594,109,Islas Chiloe Y Circundantes,1090,Isla Chiloe,1990-07-31,2017-06-30,8554,-
+10683002,DGA,dga_web,Rio Blanco En Chaiten,10,-42.9183,-72.7039,106,Costeras Entre R.Puelo Y R.Yelcho,1068,Costeras Entre R. Negro (Incl.) Y R. Yelcho,2014-01-01,2016-01-01,192,2014-01-01
+10702002,DGA,dga_web,Rio Futaleufu En La Frontera,314,-43.1742,-71.7544,107,Rio Yelcho,1070,Rio Futaleufu,2000-01-01,2018-03-09,5847,2000-01-01
+10702001,DGA,dga_web,Rio Futaleufu En Futaleufu,317,-43.19,-71.8389,107,Rio Yelcho,1070,Rio Futaleufu,1972-05-01,1976-02-15,854,-
+10701002,DGA,dga_web,Rio Espolon En Desague Lago Espolon,380,-43.2094,-71.9369,107,Rio Yelcho,1070,Rio Futaleufu,2001-07-13,2017-06-30,5191,-
+10704002,DGA,dga_web,Rio Futaleufu Ante Junta Rio Malito,42,-43.4492,-72.1075,107,Rio Yelcho,1070,Rio Futaleufu,2002-04-10,2016-10-21,4665,-
+11020002,DGA,dga_web,Rio Encuentro Antes Junta Estero Lopez,450,-43.5833,-71.7333,110,Rio Palena Y Costeras Limite Decima Region,1102,Rio Palena Entre Frontera Y Rio Rosselot,1959-02-01,1966-07-10,2461,-
+11020003,DGA,dga_web,Rio Encuentro Despues De Confluencia,0,-43.6167,-71.7,110,Rio Palena Y Costeras Limite Decima Region,1102,Rio Palena Entre Frontera Y Rio Rosselot,1959-01-22,1966-06-30,2279,-
+11020004,DGA,dga_web,Rio Tigre En La Frontera,650,-43.7169,-71.7108,110,Rio Palena Y Costeras Limite Decima Region,1102,Rio Palena Entre Frontera Y Rio Rosselot,2001-07-12,2017-02-28,5115,-
+11020001,DGA,dga_web,Estero Lopez Antes Junta Rio Encuentro,450,-43.75,-71.8,110,Rio Palena Y Costeras Limite Decima Region,1102,Rio Palena Entre Frontera Y Rio Rosselot,1959-02-01,1966-07-10,2393,-
+11040001,DGA,dga_web,Rio Palena Bajo Junta Rosselot,40,-43.8189,-72.3833,110,Rio Palena Y Costeras Limite Decima Region,1103,Rio Palena Bajo (Bajo Junta Rosselot Y Desemb),1999-06-13,2018-03-09,6244,2012-03-31
+11130001,DGA,dga_web,Rio Ventisquero En Carretera Austral,45,-44.4625,-72.5583,111,Costeras E Islas R. Palena - R. Aisen,1113,Costeras Entre Seno Ventisquero Y Rio Cisnes,1991-09-21,2016-10-12,6855,-
+11141001,DGA,dga_web,Rio Cisnes En Estancia Rio Cisnes,480,-44.5936,-71.5478,111,Costeras E Islas R. Palena - R. Aisen,1114,Rio Cisnes,1984-12-12,2017-05-31,10412,-
+11147002,DGA,dga_web,Rio Grande En Carretera Austral,200,-44.6442,-72.275,111,Costeras E Islas R. Palena - R. Aisen,1114,Rio Cisnes,1991-09-21,2016-12-20,8245,-
+11143001,DGA,dga_web,Rio Cisnes Antes Junta Rio Moro,500,-44.6592,-71.8083,111,Costeras E Islas R. Palena - R. Aisen,1114,Rio Cisnes,1988-08-25,2018-03-09,10255,2014-11-01
+11143002,DGA,dga_web,Rio Moro Antes Junta Rio Cisnes,516,-44.75,-72.7167,111,Costeras E Islas R. Palena - R. Aisen,1114,Rio Cisnes,1988-06-28,2017-06-30,9072,-
+11147001,DGA,dga_web,Rio Cisnes En Puerto Cisnes,16,-44.75,-72.7167,111,Costeras E Islas R. Palena - R. Aisen,1114,Rio Cisnes,2001-04-23,2016-03-25,4854,-
+11302001,DGA,dga_web,Rio ÑIreguao En Villa MaÑIguales,188,-45.15,-72.1167,113,Rio Aisen,1130,Rio Maniguales,1980-06-18,2017-04-12,11924,-
+11307001,DGA,dga_web,Rio Emperador Guillermo Antes Junta MaÑIguales,180,-45.2333,-72.2333,113,Rio Aisen,1130,Rio Maniguales,1980-06-18,2017-03-31,11122,-
+11151001,DGA,dga_web,Rio Cuervo En Desembocadura,80,-45.35,-73.0333,111,Costeras E Islas R. Palena - R. Aisen,1115,Costeras Entre Rio Cisnes Y Punta San Andres,1985-02-23,1988-01-09,697,-
+11308001,DGA,dga_web,Rio Magniguales Antes Junta Rio Simpson,20,-45.3833,-72.4667,113,Rio Aisen,1130,Rio Maniguales,1970-05-06,2018-01-01,10415,2014-02-16
+11318001,DGA,dga_web,Rio Simpson Antes Junta Rio Magniguales,20,-45.4,-72.4833,113,Rio Aisen,1131,Rio Simpson,1970-01-01,1974-02-28,1260,-
+11337001,DGA,dga_web,Rio Blanco Antes Junta Rio Aysen,21,-45.4,-72.6,113,Rio Aisen,1133,Rio Riesco,1998-11-01,2018-03-09,6327,2014-12-30
+11342001,DGA,dga_web,Rio Aysen En Puerto Aysen,32,-45.4058,-72.6231,113,Rio Aisen,1134,Rio Aisen Entre Rio Riesco Y Desembocadura,1995-12-30,2018-03-09,7640,2012-09-01
+11405001,DGA,dga_web,Rio Lagunillas En Desague Lago Condor,10,-45.4667,-72.9333,114,Costeras E Islas R Aisen R Baker C. Gral. Martinez,1140,Costeras Entre Rio Aisen Y Rio Huemules (Incl.),1985-07-30,2013-07-10,7567,-
+11335001,DGA,dga_web,Rio Blanco Bajo Junta Riesco,16,-45.5333,-72.6667,113,Rio Aisen,1133,Rio Riesco,1969-07-01,1972-11-23,1183,-
+11317001,DGA,dga_web,Rio Simpson Bajo Junta Coyhaique,210,-45.5517,-72.0681,113,Rio Aisen,1131,Rio Simpson,1969-04-16,2018-03-09,11611,2004-01-01
+11316001,DGA,dga_web,Rio Coyhaique En Tejas Verdes,335,-45.5667,-72.0333,113,Rio Aisen,1131,Rio Simpson,1979-10-11,2017-04-30,9488,-
+11315001,DGA,dga_web,Rio Claro En Pisicultura,224,-45.5667,-72.0833,113,Rio Aisen,1131,Rio Simpson,1984-05-01,2017-01-31,5524,-
+11314001,DGA,dga_web,Rio Pollux Antes Junta Simpson,340,-45.6167,-72.1333,113,Rio Aisen,1131,Rio Simpson,1979-11-22,1987-05-25,2738,-
+11332001,DGA,dga_web,Desague En Lago Monreal En Desague,0,-45.75,-72.2833,113,Rio Aisen,1133,Rio Riesco,1985-02-01,1987-12-31,967,-
+11335002,DGA,dga_web,Rio Blanco En Desague Lago Caro,270,-45.7833,-72.6167,113,Rio Aisen,1133,Rio Riesco,1985-02-22,2017-06-30,9047,-
+11312001,DGA,dga_web,Rio Blanco Antes Junta Huemules,450,-45.8117,-71.9153,113,Rio Aisen,1131,Rio Simpson,1979-11-06,2001-03-07,6346,-
+11310001,DGA,dga_web,Rio Huemules Frente Cerro Galera,510,-45.8372,-71.7769,113,Rio Aisen,1131,Rio Simpson,1979-05-25,2017-04-30,12192,-
+11310003,DGA,dga_web,Rio Blanco Chico Antes Junta Oscuro,515,-45.8853,-71.7211,113,Rio Aisen,1131,Rio Simpson,1979-05-23,2016-11-14,9654,-
+11310002,DGA,dga_web,Rio Oscuro En Camino Cerro Portezuelo,525,-45.9069,-71.7081,113,Rio Aisen,1131,Rio Simpson,1979-05-23,2017-02-28,11164,-
+11500002,DGA,dga_web,Rio Ibanez Antes Junta Cajon,356,-46.0861,-72.5819,115,Rio Baker,1150,Rio Ibanez,2011-01-01,2018-03-09,2141,2011-01-01
+11504001,DGA,dga_web,Rio Claro Antes Junta Rio Ibagnez,0,-46.25,-71.9667,115,Rio Baker,1150,Rio Ibanez,1985-02-25,1991-05-17,1934,-
+11505001,DGA,dga_web,Rio Ibaez En Desembocadura,220,-46.2692,-71.9908,115,Rio Baker,1150,R. Ibanez,1970-08-01,2018-03-09,11985,2014-11-01
+11514001,DGA,dga_web,Rio Murta En Desembocadura,219,-46.4333,-72.7,115,Rio Baker,1151,Vertiente N Lago G. Carrera (Exc. Rio Ibanez),1985-02-27,2017-03-31,10313,-
+11521005,DGA,dga_web,Lago General Carrera Fachinal,18,-46.5425,-72.2267,115,Rio Baker,1152,Vertiente Sur Lago General Carrera,2015-12-01,2018-03-09,790,2015-12-01
+11521001,DGA,dga_web,Rio El Bagno En Chile Chico,414,-46.5522,-71.8917,115,Rio Baker,1152,Vertiente Sur Lago General Carrera,1995-12-18,2016-05-04,6652,-
+11520002,DGA,dga_web,Rio Jeinimeni En Chile Chico,267,-46.5836,-71.6672,115,Rio Baker,1152,Vertiente Sur Lago General Carrera,1995-12-18,2004-01-12,1502,-
+11440000,DGA,dga_web,Glaciar San Rafael,8,-46.6433,-73.8575,114,Costeras E Islas Entre R Aisen Y R Baker Y Canal Gral. Martinez,1144,Costera Y Ventisqueros Entre R.  Exploradores Y Vent. Benito,2013-11-24,2016-01-01,104,2013-11-24
+11530000,DGA,dga_web,Rio Baker En Desague Lago Bertrand,200,-47.0667,-72.8,115,Rio Baker,1153,Rio Baker Des. Lago G. Carrera Y R De La Colonia,2000-01-01,2018-03-09,5384,2000-01-01
+11532000,DGA,dga_web,Rio Nef Antes Junta Estero El Revalse,281,-47.1378,-73.0869,115,Rio Baker,1153,R. Baker Entre Desague L. J. M. Carrera Y R. De La Colonia,2010-03-04,2016-04-10,1382,2012-03-01
+11536004,DGA,dga_web,Rio Baker En Angostura Chacabuco,160,-47.1414,-72.7258,115,Rio Baker,1153,R. Baker Entre Desague L. J. M. Carrera Y R. De La Colonia,2003-01-01,2018-03-09,5361,2003-01-01
+11540000,DGA,dga_web,Lago Cachet 2 En Glaciar Colonia,427,-47.1981,-73.25,115,Rio Baker,1154,R. Baker Entre Arriba R. De La Colonia Y Desembocadura,2011-01-01,2018-03-09,2258,2011-01-01
+11536001,DGA,dga_web,Rio Cochrane En Cochrane,140,-47.2517,-72.5644,115,Rio Baker,1153,R. Baker Entre Desague L. J. M. Carrera Y R. De La Colonia,1985-06-01,2018-03-09,8566,2005-07-05
+11541000,DGA,dga_web,Rio Colonia En Nacimiento,146,-47.3392,-73.1147,115,Rio Baker,1154,R. Baker Entre Arriba R. De La Colonia Y Desembocadura,2011-01-01,2018-03-09,1860,2011-01-01
+11542001,DGA,dga_web,Rio Baker En Colonia,105,-47.35,-72.85,115,Rio Baker,1154,Rio Baker Entre Arriba Rio De La Colonia Y Desemb.,2001-02-14,2018-03-09,6047,2012-01-29
+11545000,DGA,dga_web,Rio Baker Bajo ÑAdis,45,-47.5,-72.975,115,Rio Baker,1154,Rio Baker Entre Arriba Rio De La Colonia Y Desemb.,2003-01-01,2018-03-09,4736,2003-01-01
+11711000,DGA,dga_web,Rio Pascua Ante Junta Rio Quetru,20,-48.1592,-73.0889,117,Rio Pascua,1171,Rio Pascua,2003-01-01,2018-03-09,5287,2003-01-01
+11710000,DGA,dga_web,Rio Pascua En Desague Lago O'Higgins,260,-48.3775,-72.9589,117,Rio Pascua,1171,Rio Pascua,2003-03-29,2017-06-30,4231,-
+11701001,DGA,dga_web,Rio Mayer En Desembocadura,350,-48.4833,-72.6,117,Rio Pascua,1170,Lago O'Higgins,1985-05-03,2018-03-09,9196,2004-11-10
+11706000,DGA,dga_web,Glaciar Ohiggins,5,-48.9272,-73.1172,117,Rio Pascua,1170,Lago O'Higgins,2011-01-01,2016-01-01,44,2011-01-01
+12125002,DGA,dga_web,Rio Punta Eva En Puerto Eden,10,-49.1103,-74.4119,121,Islas Entre Limite Region Y Canal Ancho Y Estrecho De La Concepcion,1212,Isla Wellington E Isla Entre Esta Y El Oriente,2004-08-26,2011-12-19,1941,-
+12280004,DGA,dga_web,Lago Dickson,200,-50.8228,-73.1125,122,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228,Rio Serrano,2013-05-02,2016-01-01,4,2013-05-02
+12280002,DGA,dga_web,Rio Paine En Parque Nacional 2,90,-50.9603,-72.7925,122,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228,Rio Serrano,1985-02-26,2018-03-09,11632,2013-02-15
+12280001,DGA,dga_web,Rio Paine En Parque Nacional,46,-50.9794,-72.8006,122,Costeras Seno Andrew  R Hollemberg,1228,Rio Serrano,1981-10-28,1984-01-31,740,-
+12284003,DGA,dga_web,Rio Vizcachas En Cerro Guido,80,-51.0167,-72.4833,122,Costeras Seno Andrew  R Hollemberg,1228,Rio Serrano,1980-08-27,2017-06-30,12613,-
+12284002,DGA,dga_web,Rio Baguales En Cerro Guido,80,-51.0167,-72.4833,122,Costeras Seno Andrew  R Hollemberg,1228,Rio Serrano,1980-07-29,2016-08-31,12765,-
+12284006,DGA,dga_web,Rio Las Chinas En Cerro Guido,75,-51.0508,-72.5169,122,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228,Rio Serrano,1980-06-08,2018-03-09,13215,2014-06-19
+12283003,DGA,dga_web,Lago Pehoe,40,-51.0783,-72.9933,122,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228,Rio Serrano,2011-01-01,2018-03-09,2256,2011-01-01
+12287002,DGA,dga_web,Lago Grey,50,-51.1114,-73.13,122,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228,Rio Serrano,2011-01-01,2018-03-09,2196,2011-01-01
+12287001,DGA,dga_web,Rio Grey Antes Junta Serrano,50,-51.1833,-73.0167,122,Costeras Seno Andrew  R Hollemberg,1228,Rio Serrano,1981-10-25,2018-03-09,12997,2014-04-15
+12289002,DGA,dga_web,Rio Serrano En Desague Lago Del Toro,30,-51.2,-72.9333,122,Costeras Seno Andrew  R Hollemberg,1228,Rio Serrano,1986-05-22,2018-03-09,11301,2014-11-01
+12284004,DGA,dga_web,Rio Las Chinas En Pte Carretero,65,-51.2167,-72.45,122,Costeras Seno Andrew  R Hollemberg,1228,Rio Serrano,1981-10-28,1990-03-11,2995,-
+12289003,DGA,dga_web,Rio Serrano Antes Junta Grey,40,-51.2167,-72.9833,122,Costeras Seno Andrew  R Hollemberg,1228,Rio Serrano,1970-04-29,1986-03-13,3182,-
+12284007,DGA,dga_web,Rio Las Chinas Antes Desague Del Toro,50,-51.25,-72.5167,122,Costeras Seno Andrew  R Hollemberg,1228,Rio Serrano,1990-03-16,2018-03-09,10123,2013-02-24
+12288003,DGA,dga_web,Rio Tindall En Desembocadura,18,-51.2564,-73.1561,122,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228,Rio Serrano,2011-07-19,2015-03-29,1004,-
+12284005,DGA,dga_web,Rio Don Guillermo En Cerro Castillo,125,-51.2667,-72.4833,122,Costeras Seno Andrew  R Hollemberg,1228,Rio Serrano,1980-06-07,2013-04-17,8780,-
+12288002,DGA,dga_web,Rio Geikie En Desembocadura,40,-51.3019,-73.2075,122,Costeras Seno Andrew  R Hollemberg,1228,Rio Serrano,2011-07-21,2016-08-03,1000,-
+12285003,DGA,dga_web,Rio Tres Pasos En Desague Lago Toro,46,-51.3097,-72.6206,122,Costeras Seno Andrew  R Hollemberg,1228,Rio Serrano,2005-01-13,2017-03-31,4375,-
+12288004,DGA,dga_web,Rio Caadon 1 En Desembocadura,60,-51.3128,-73.275,122,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228,Rio Serrano,2009-10-17,2012-10-07,1022,-
+12286002,DGA,dga_web,Rio Rincon En Ruta Y-290,36,-51.3139,-72.8292,122,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228,Rio Serrano,2010-01-29,2018-03-09,2837,2013-02-23
+12289001,DGA,dga_web,Rio Serrano En Desembocadura,25,-51.3328,-73.1092,122,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228,Rio Serrano,1994-12-15,2018-03-09,7975,2017-06-01
+12285001,DGA,dga_web,Rio Chorrillos Tres Pasos Ruta N 9,158,-51.45,-72.4667,122,Costeras Seno Andrew  R Hollemberg,1228,Rio Serrano,1981-11-25,2017-03-31,12156,-
+12291001,DGA,dga_web,Rio Prat En Desembocadura,20,-51.5581,-72.7347,122,Costeras Seno Andrew  R Hollemberg,1229,Costeras Entre Rio Serrano Y Rio Hollenberg,2005-01-18,2017-04-30,4345,-
+12400003,DGA,dga_web,Rio Tranquilo En Ruta N 9,30,-51.8233,-72.1592,124,Costeras E Islas Entre R Hollemberg Golfo Alte. Laguna Blanca,1240,Costeras Del Golfo Almirante Montt Y Fiordo Obstruccion,2005-12-27,2017-04-30,3804,-
+12400004,DGA,dga_web,Rio Hollemberg En Desembocadura,14,-51.9056,-72.4236,124,Costeras E Islas R Hollemberg  Laguna Blanca,1240,Costeras Del Golfo Almirante Montt Y F Obstruccion,2007-01-30,2018-03-09,3566,2017-06-01
+12600001,DGA,dga_web,Rio Rubens En Ruta N 9,180,-52.03,-71.9414,126,Vertiente Del Atlantico,1260,Vertiente Del Atlantico,1981-11-24,2018-03-09,12837,2013-04-08
+12660001,DGA,dga_web,Rio Ci-Aike Antes Frontera,142,-52.0431,-70.0581,126,Vertiente Del Atlantico,1266,Rio Cigike Y Rio De Los Pozuelos,2005-01-15,2016-08-31,3877,-
+12622001,DGA,dga_web,Rio Penitente En Morro Chico,170,-52.0511,-71.4247,126,Vertiente Del Atlantico,1262,Rio Penitente,1980-06-10,2018-01-06,12944,2006-01-01
+12452001,DGA,dga_web,Rio Perez En Desembocadura,20,-52.5492,-71.9747,124,Costeras E Islas Entre R Hollemberg Golfo Alte. Laguna Blanca,1245,Costeras Continentales Del Seno Skyring,1991-05-19,2018-03-09,9173,2015-11-01
+12802001,DGA,dga_web,Rio Side En Cerro Sombrero,10,-52.7681,-69.2772,128,Tierra Del Fuego,1280,Costeras Del Estrecho Magallanes Entre Frontera Y Cabo Monmouth,1980-06-12,2018-03-09,13274,2015-12-09
+12861001,DGA,dga_web,Rio Cullen En Frontera,0,-52.8453,-68.6317,30,Tierra Del Fuego,300,Cuencas Atlanticas Hasta Desde Cabo Esp. Santo Has,2005-01-14,2017-05-31,4270,-
+12806001,DGA,dga_web,Rio Oro En Bahia San Felipe,10,-52.8461,-69.8944,128,Tierra Del Fuego,1280,"Costeras Del E Magallanes, Cabo Esp. Santo Y C. Mo",1980-06-12,2017-06-30,12996,-
+12805001,DGA,dga_web,Rio Oscar En Bahia San Felipe,10,-52.8497,-69.7536,128,Tierra Del Fuego,1280,"Costeras Del E Magallanes, Cabo Esp. Santo Y C. Mo",1980-06-12,2017-04-30,12870,-
+12448001,DGA,dga_web,Rio Grande En Isla Riesco,5,-52.9964,-71.8706,124,Costeras E Islas Entre R Hollemberg Golfo Alte. Laguna Blanca,1244,Isla Riesco,1981-12-11,2017-04-30,9671,-
+12561001,DGA,dga_web,Rio Grande En Seno Otway,22,-53.1089,-71.3036,125,Costeras L Blanca E Magallanes,1256,Costeras Occidentales Peninsula Brunswick,2007-01-27,2017-06-30,3618,-
+12586009,DGA,dga_web,Canal De Trasvase Estero Llau-Llau,80,-53.125,-70.9358,125,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1258,Costeras E Islas Orientales De La Peninsula Brunswick,2003-01-01,2018-03-09,4775,2003-01-01
+12586001,DGA,dga_web,Rio Las Minas En Bt. Sendos,185,-53.1381,-70.9875,125,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1258,Costeras E Islas Orientales De La Peninsula Brunswick,1982-06-07,2018-03-09,10826,2010-07-27
+12563001,DGA,dga_web,Rio Calete En Seno Otway,15,-53.2069,-71.6158,125,Costeras L Blanca E Magallanes,1256,Costeras Occidentales Peninsula Brunswick,2005-01-27,2017-05-31,4019,-
+12585002,DGA,dga_web,Rio Legnadura Antes Bt Sendos,0,-53.2217,-70.9697,125,Costeras L Blanca E Magallanes,1258,Costeras E Islas Orientales De La P Brunswick,1982-04-20,1991-12-23,1783,-
+12585001,DGA,dga_web,Rio Tres Brazos Antes Bt. Sendos,0,-53.2789,-70.9789,125,Costeras L Blanca E Magallanes,1258,Costeras E Islas Orientales De La P Brunswick,1982-06-08,2018-03-09,11798,2007-05-26
+12863002,DGA,dga_web,Rio San Martin En San Sebastian,0,-53.3164,-68.6511,30,Tierra Del Fuego,300,Cuencas Atlanticas Hasta Desde Cabo Esp. Santo Has,2006-04-25,2016-12-07,3267,-
+12865001,DGA,dga_web,Rio Chico En Ruta Y-895,0,-53.5436,-68.6908,30,Tierra Del Fuego,300,Cuencas Atlanticas Hasta Desde Cabo Esp. Santo Has,2005-01-11,2017-04-30,4013,-
+12582001,DGA,dga_web,Rio San Juan En Desembocadura,8,-53.65,-70.9667,125,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1258,Costeras E Islas Orientales De La Peninsula Brunswick,1970-05-03,2018-03-09,14112,2011-01-01
+12872001,DGA,dga_web,Rio Herminita En Ruta Y-895,0,-53.8056,-68.6725,128,Tierra Del Fuego,1287,Afluentes Rio Grande Y Cuencas Cerradas,2005-01-12,2016-02-16,3654,-
+12820001,DGA,dga_web,Rio Caleta En Tierra Del Fuego,280,-53.8586,-69.9989,128,Tierra Del Fuego,1282,Costeras Entre Cabo Nose Y R. Azopardo (Incl.),2006-01-01,2018-03-09,4079,2006-01-01
+12876001,DGA,dga_web,Rio Grande En Tierra Del Fuego,100,-53.8928,-68.8844,128,Tierra Del Fuego,1287,Afluentes Rio Grande Y Cuencas Cerradas,1981-05-12,2018-03-09,12874,2014-09-24
+12878001,DGA,dga_web,Rio Rasmussen En Frontera (Estancia VicuÑA),0,-54.0181,-68.6528,128,Tierra Del Fuego,1287,Afluentes Rio Grande Y Cuencas Cerradas,2004-01-21,2017-05-31,4799,-
+12876004,DGA,dga_web,Rio Catalina En Pampa Guanacos,0,-54.0411,-68.7975,128,Tierra Del Fuego,1287,Afluentes Rio Grande Y Cuencas Cerradas,2007-09-26,2016-08-31,1475,-
+12825002,DGA,dga_web,Rio Azopardo En Desembocadura,32,-54.5028,-68.8244,128,Tierra Del Fuego,1282,Costeras Entre Cabo Nose Y R. Azopardo (Incl.),2006-02-14,2017-01-01,3823,-
+12930001,DGA,dga_web,Rio Robalo En Puerto Williams,80,-54.9469,-67.6392,129,Islas Al Sur Del Canal Beagle Y Territorio Antartico,1293,Islas Navarino Y Gable,2003-01-01,2018-03-09,4846,2003-01-01
